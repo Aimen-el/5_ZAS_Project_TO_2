@@ -1,15 +1,15 @@
 package com.semantic.ecare_android_v2.util;
 
-import java.util.HashMap;
+import android.os.Environment;
+import android.util.SparseIntArray;
 
 import com.semantic.ecare_android_v2.R;
 import com.semantic.ecare_android_v2.object.Measure;
 
-import android.os.Environment;
-import android.util.SparseIntArray;
-
 public class Constants {
 
+
+	//testing
 
 	public static final int PORT_WRITE=18444;
 	public static final int PORT_HL7=18445;
@@ -37,7 +37,7 @@ public class Constants {
 	public static final String ABONNEMENT_HOPITAL="service";
 	
 	
-	public static final String PROPERTY_FILE_LOCATION=Environment.getExternalStorageDirectory().getAbsolutePath()+"/";
+	public static final String PROPERTY_FILE_LOCATION= Environment.getExternalStorageDirectory().getAbsolutePath()+"/";
 	public static final String PROPERTY_FILE="ecare_properties.txt";
 	
 	
@@ -142,6 +142,7 @@ public class Constants {
 	+"idUser TEXT NOT NULL,"
 	+"gender INTEGER(1) NOT NULL,"
 	+"name TEXT NOT NULL," // nom
+	//+"address TEXT NOT NULL,"
 	+"surname TEXT NOT NULL," // prenom
 	+"symptome TEXT NOT NULL,"
 	+"note TEXT NOT NULL,"
