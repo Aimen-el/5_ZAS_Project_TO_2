@@ -19,6 +19,7 @@ public class ConfigurationList{
 	private int initialise; // si cette tablette a deja ete initialisee
 	private String nomOuEtablissement;
 	private String prenomOuService;
+	private String addressOuService;
 	private int gender;
 	private int canUpdate;
 	
@@ -55,9 +56,19 @@ public class ConfigurationList{
 		return prenomOuService;
 	}
 
+	public String getAddressOuService()
+	{
+		return addressOuService;
+	}
+
 	public void setPrenomOuService(String prenomOuService)
 	{
 		this.prenomOuService = prenomOuService;
+	}
+
+	public void setAddressOuService(String addressOuService)
+	{
+		this.addressOuService = addressOuService;
 	}
 	
 	public ConfigurationList()

@@ -10,6 +10,7 @@ public class NoteModel implements Serializable{
 	private int targetId;
 	private int targetTypeId; // patient, measure or alert
 	private String note;
+	private String address;
 	private String noteDate;
 	
 	public NoteModel(){
@@ -29,6 +30,15 @@ public class NoteModel implements Serializable{
 		this.hasBeenEdited = false;
 		this.targetId = targetId;
 		this.targetTypeId = targetTypeId;
+	}
+
+	public NoteModel(String note,String patientAddress, String noteDate, int targetId, int targetTypeId){
+		this.note = note;
+		this.noteDate = noteDate;
+		this.hasBeenEdited = false;
+		this.targetId = targetId;
+		this.targetTypeId = targetTypeId;
+		this.address = patientAddress;
 	}
 	
 	public NoteModel(String note,String noteDate){

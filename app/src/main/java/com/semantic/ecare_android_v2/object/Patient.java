@@ -1,17 +1,15 @@
 package com.semantic.ecare_android_v2.object;
 
-import java.io.Serializable;
-import java.util.ArrayList;
-
-import android.os.Parcel;
-import android.os.Parcelable;
 import android.util.SparseArray;
+
+import java.util.ArrayList;
 
 public class Patient{
 	private int id;
 	private String uid;
 	private int gender=1;
 	private String name="";
+	private String address="";
 	private String surname="";
 	private SparseArray<ArrayList<UserConstant>> userConstants;
 	private String symptome="";
@@ -22,11 +20,12 @@ public class Patient{
 	
 	
 	
-	public Patient(int id,String uid, int gender, String name, String surname, String symptome, String note, String noteDate){
+	public Patient(int id,String uid, int gender, String name, String address, String surname, String symptome, String note, String noteDate){
 		this.id=id;
 		this.uid=uid;
 		this.gender=gender;
 		this.name=name;
+		this.address=address;
 		this.surname=surname;
 		this.symptome=symptome;
 		this.note=note;
@@ -50,8 +49,14 @@ public class Patient{
 	public String getName() {
 		return name;
 	}
+	public String getAddress() {
+		return address;
+	}
 	public void setName(String name) {
 		this.name = name;
+	}
+	public void setAddress(String address) {
+		this.address = address;
 	}
 	public String getSurname() {
 		return surname;

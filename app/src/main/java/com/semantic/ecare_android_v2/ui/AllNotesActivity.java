@@ -165,7 +165,7 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
 				
 				else if (targetTypeId == Constants.PATIENT_TYPE){
 					Patient patient = findPatientById(targetId);
-					NoteModel model = new NoteModel(patient.getNote(), patient.getNoteDate(), targetId, targetTypeId);
+					NoteModel model = new NoteModel(patient.getNote(),patient.getAddress(), patient.getNoteDate(), targetId, targetTypeId);
 					
 					Intent intent = new Intent(context, NoteDialogActivity.class);
 					intent.putExtra(Constants.NOTEMODEL_KEY, model);

@@ -523,6 +523,7 @@ public class ServiceEcare extends Service implements BuilderPatientListListener,
 											  configurationList.getIdPatientOrService(),
 											  configurationList.getGender(),
 											  configurationList.getPrenomOuService(),
+											  configurationList.getAddressOuService(),
 											  configurationList.getNomOuEtablissement(), 
 											  null,
 											  null,
@@ -564,6 +565,7 @@ public class ServiceEcare extends Service implements BuilderPatientListListener,
 					configurationList.getIdPatientOrService(),
 					configurationList.getGender(),
 					configurationList.getPrenomOuService(),
+					configurationList.getAddressOuService(),
 					configurationList.getNomOuEtablissement(), 
 					null,
 					null,
@@ -1314,7 +1316,7 @@ public class ServiceEcare extends Service implements BuilderPatientListListener,
 		SQLiteDatabase db = dbc.openRead();
 		if(db!=null){
 			//premiere requete on ne tient pas compte du filtre (moche mais jetable !)
-			Cursor cursor = db.query(Constants.TABLE_PATIENT, new String[] { "id", "idUser", "gender", "name", "surname", "symptome", "note", "noteDate" }, "noteDate<>''", null, null, null, "noteDate DESC");
+			Cursor cursor = db.query(Constants.TABLE_PATIENT, new String[] { "id", "idUser", "gender", "name", "address", "surname", "symptome", "note", "noteDate" }, "noteDate<>''", null, null, null, "noteDate DESC");
 			if (cursor != null){
 				if(cursor.moveToFirst()){
 					do{
@@ -1325,7 +1327,8 @@ public class ServiceEcare extends Service implements BuilderPatientListListener,
 								cursor.getString(4),
 								cursor.getString(5),
 								cursor.getString(6),
-								cursor.getString(7));
+								cursor.getString(7),
+								cursor.getString(8));
 
 						patientsWithNotes.add(p);
 					} while(cursor.moveToNext());
