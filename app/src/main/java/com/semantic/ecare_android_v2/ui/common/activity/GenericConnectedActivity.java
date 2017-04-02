@@ -17,6 +17,7 @@ import com.semantic.ecare_android_v2.ui.MainActivity;
 import com.semantic.ecare_android_v2.ui.NoteDialogActivity;
 import com.semantic.ecare_android_v2.util.Constants;
 import com.semantic.ecare_android_v2.util.FunctionsUI;
+import com.semantic.ecare_android_v2.util.MapsActivity;
 
 import net.newel.android.Log;
 
@@ -135,5 +136,8 @@ public abstract class GenericConnectedActivity extends GenericActivity implement
 		}
 	};
 	*/
-    
+	public void openmaps(View view) {
+		Intent intent = new Intent(this, MapsActivity.class);
+		startActivity(intent);
+	}
 }

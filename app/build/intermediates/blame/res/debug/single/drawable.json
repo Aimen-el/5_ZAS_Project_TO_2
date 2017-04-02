@@ -1,650 +1,1086 @@
 [
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_rectangle_background.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\info_rectangle_background.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_exit.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_exit.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_rectangle_alert3_info.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\background_rectangle_alert3_info.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\scrubber_control_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_investissement_avenir.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_investissement_avenir.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue_disabled9.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\bg_spinner_blue_disabled9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/bg_btn_new_white9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/bg_btn_new_white9.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_uha.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_partenaire_uha.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_patient.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_patient.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_null.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_comp_null.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/tab_indicator_ab_ecare.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_newel.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_newel.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/pressed_background_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/pressed_background_ecare.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_up.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_comp_up.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/ratingbar_full_filled_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/ratingbar_full_filled_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_cardio.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_sensor_cardio.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_arrow_right.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_arrow_right.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_empty_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\ratingbar_full_empty_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/check_mode_test.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/check_mode_test.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_blue9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo_min.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo_min.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue_selected9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\bg_spinner_blue_selected9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/selectable_background_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/selectable_background_ecare.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_error.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_error.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_caisses_des_depots.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_caisses_des_depots.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_exit.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_exit.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_info_alert3.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_info_alert3.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\btn_toggle_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_volume_bluetooth_in_call.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\ic_volume_bluetooth_in_call.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo_min_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo_min_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_mfam.jpg",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_mfam.jpg"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_new_white9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\bg_btn_new_white9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/btn_check_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/btn_check_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_alert3.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_info_alert3.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_caisses_des_depots_old.gif",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_caisses_des_depots_old.gif"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner2.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\bg_spinner2.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_oxy.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_sensor_oxy.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_empty_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\ratingbar_full_empty_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_ecare_new_just_logo_min_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_ecare_new_just_logo_min_white.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_stetho.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_stetho.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/progress_horizontal_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/progress_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_caisses_des_depots_old.gif",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_caisses_des_depots_old.gif"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_comp_down.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_comp_down.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_mfam.jpg",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_partenaire_mfam.jpg"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/progress_horizontal_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/progress_horizontal_ecare.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_back_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/btn_default_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/btn_default_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/spinner_background_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/spinner_background_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_tension.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_sensor_tension.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_rectangle_alert4_info.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\background_rectangle_alert4_info.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_btn_graph.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_btn_graph.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/background_rectangle_alert4_info.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/background_rectangle_alert4_info.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_volume_bluetooth_in_call.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\ic_volume_bluetooth_in_call.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/progress_indeterminate_horizontal_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/progress_indeterminate_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_mfam.jpg",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_partenaire_mfam.jpg"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rectangle_background.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\rounded_rectangle_background.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_balance.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_sensor_balance.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\btn_default_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\btn_default_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/list_selector_background_transition_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_min.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_ecare_new_min.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_exit.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_exit.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_caisses_des_depots.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_caisses_des_depots.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_warning_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_warning_white.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\progress_horizontal_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_ecare_new_just_logo_min.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_ecare_new_just_logo_min.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_battery_very_low.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_battery_very_low.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/bg_spinner_white2_selected9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/bg_spinner_white2_selected9.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_orange_new.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_orange_new.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_caisses_des_depots.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_caisses_des_depots.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_error_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_error_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_alert.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_menu_alert.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_info_alert4.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_info_alert4.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\btn_radio_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/bg_spinner_blue_disabled9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/bg_spinner_blue_disabled9.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wifi_deconnect.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_wifi_deconnect.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/btn_radio_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/btn_radio_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/bg_spinner_blue9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/bg_spinner_blue9.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_oxy.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_sensor_oxy.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue_selected9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_blue_selected9.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue_selected9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_blue_selected9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_orange_new.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_orange_new.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo_min.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo_min.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_null.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_comp_null.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_hus.jpg",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_hus.jpg"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\bg_spinner_blue9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo_min_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo_min_white.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_left.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_arrow_left.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_btn_delete.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_btn_delete.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_exit.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_exit.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\scrubber_progress_horizontal_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_error_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_error_white.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_left.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_arrow_left.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/background_rectangle_alert3_info.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/background_rectangle_alert3_info.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_battery_very_low.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_battery_very_low.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_rectangle_alert3_info.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\background_rectangle_alert3_info.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_battery_low.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_battery_low.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_error.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_error.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_back_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_back_white.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_btn_graph.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_btn_graph.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner2.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner2.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_battery_low.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_battery_low.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_patient.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_patient.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_new_white9.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\bg_btn_new_white9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_sensor_cardio.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_sensor_cardio.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_graph.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_menu_graph.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_bg_blue.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\spinner_bg_blue.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_ecare_new_min.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_ecare_new_min.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_indeterminate_horizontal_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\progress_indeterminate_horizontal_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_new_bottom_white9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_btn_new_bottom_white9.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_ecare.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\pressed_background_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_sensor_oxy.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_sensor_oxy.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_patient_white.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_patient_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_partenaire_newel.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_partenaire_newel.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\ratingbar_full_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_partenaire_utbm.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_partenaire_utbm.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_down.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_comp_down.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_sensor_tension.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_sensor_tension.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_red_new.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_red_new.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_mode_test.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\check_mode_test.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_red_new.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_red_new.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\progress_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo_min.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo_min.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_error.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_error.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_filled_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\ratingbar_full_filled_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_battery_low.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_battery_low.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_empty_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\ratingbar_full_empty_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_null.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_comp_null.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\pressed_background_ecare.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\progress_horizontal_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\ratingbar_full_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_patient_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_patient_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\selectable_background_ecare.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_stetho.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_stetho.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_down.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_comp_down.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_white2_selected9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_white2_selected9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/bg_spinner_white29.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/bg_spinner_white29.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_centich.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_centich.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_btn_graph.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_btn_graph.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_up.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_comp_up.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\btn_check_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue_disabled9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_blue_disabled9.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_info_white.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_patient.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_patient.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\edit_text_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\scrubber_control_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_error_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_error_white.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_hus.jpg",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_partenaire_hus.jpg"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\warning.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\spinner_background_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baren.jpg",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\baren.jpg"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\spinner_background_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/ratingbar_full_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/ratingbar_full_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_volume_bluetooth_in_call.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\ic_volume_bluetooth_in_call.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/spinner_bg_blue.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/spinner_bg_blue.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_up.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_comp_up.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/btn_toggle_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/btn_toggle_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo_min_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo_min_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\spinner_background_ab_ecare.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_tension.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_sensor_tension.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\progress_horizontal_ecare.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_graph.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_menu_graph.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_balance.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_sensor_balance.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_arrow_left.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_arrow_left.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_min.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_ecare_new_min.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_white29.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_white29.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_btn_graph.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_btn_graph.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\progress_horizontal_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_white2_selected9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_white2_selected9.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_oxy.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_sensor_oxy.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_patient_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_patient_white.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_rectangle_alert4_info.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\background_rectangle_alert4_info.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/warning.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/warning.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner2.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner2.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_alert4.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_info_alert4.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_rectangle_alert3_info.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\background_rectangle_alert3_info.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\btn_toggle_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\spinner_background_ab_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\scrubber_control_selector_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_null.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_comp_null.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_tension.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_sensor_tension.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_right.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_arrow_right.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/scrubber_control_selector_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/scrubber_control_selector_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baren.jpg",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\baren.jpg"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/scrubber_progress_horizontal_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/scrubber_progress_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_left.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_arrow_left.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_indeterminate_horizontal_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\progress_indeterminate_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\btn_check_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_red_new.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_red_new.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_green_new.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_green_new.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_wifi_deconnect.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_wifi_deconnect.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/bg_btn_new_bottom_white9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/bg_btn_new_bottom_white9.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_green_new.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_green_new.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_info_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_info_white.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_blue9.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_warning_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_warning_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_patient_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_patient_white.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_uha.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_uha.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/info_rectangle_background.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/info_rectangle_background.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_rectangle_alert3_info.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\background_rectangle_alert3_info.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/bg_spinner_blue_selected9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/bg_spinner_blue_selected9.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_white.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_info_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/spinner_background_ab_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/spinner_background_ab_ecare.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_indeterminate_horizontal_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\progress_indeterminate_horizontal_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_red_new.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_red_new.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_rectangle_alert4_info.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\background_rectangle_alert4_info.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_mode_test.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\check_mode_test.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_cardio.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_sensor_cardio.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_alert.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_menu_alert.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_caisses_des_depots_old.gif",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_caisses_des_depots_old.gif"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_right.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_arrow_right.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\btn_default_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\scrubber_progress_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_white29.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_white29.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_investissement_avenir.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_investissement_avenir.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rectangle_background.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\rounded_rectangle_background.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_stetho.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_stetho.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_battery_very_low.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_battery_very_low.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_comp_null.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_comp_null.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_investissement_avenir.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_investissement_avenir.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_utbm.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_utbm.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_cardio.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_sensor_cardio.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_partenaire_uha.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_partenaire_uha.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_volume_bluetooth_in_call.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\ic_volume_bluetooth_in_call.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_partenaire_hus.jpg",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_partenaire_hus.jpg"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\spinner_background_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/bg_spinner2.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/bg_spinner2.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\tab_indicator_ab_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_partenaire_mfam.jpg",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_partenaire_mfam.jpg"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_caisses_des_depots.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_caisses_des_depots.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banniere.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\banniere.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_alert.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_menu_alert.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/edit_text_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/edit_text_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_new_white9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_btn_new_white9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_green_new.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_green_new.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\warning.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_filled_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\ratingbar_full_filled_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_right.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_arrow_right.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_ecare_new_just_logo.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_ecare_new_just_logo.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_ecare.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\tab_indicator_ab_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_stetho.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_stetho.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/logo_partenaire_centich.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/logo_partenaire_centich.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_red_new.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_red_new.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_warning_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_warning_white.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo_min_white.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo_min_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wifi_deconnect.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_wifi_deconnect.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_tension.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_sensor_tension.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_uha.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_uha.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\scrubber_control_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_battery_very_low.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_battery_very_low.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_comp_up.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_comp_up.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_utbm.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_utbm.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_new_white9.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_btn_new_white9.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_min.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_ecare_new_min.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\btn_radio_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner2.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\bg_spinner2.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_white.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_back_white.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_white29.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\bg_spinner_white29.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/baren.jpg",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/baren.jpg"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/ratingbar_full_empty_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/ratingbar_full_empty_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_utbm.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_partenaire_utbm.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\spinner_background_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_down.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_comp_down.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_menu_alert.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_menu_alert.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_graph.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_menu_graph.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\btn_check_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_down.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_comp_down.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_menu_graph.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_menu_graph.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_indeterminate_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\progress_indeterminate_horizontal_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_centich.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_centich.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_mode_test.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\check_mode_test.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_min.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_ecare_new_min.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_empty_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\ratingbar_full_empty_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_btn_delete.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_btn_delete.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_ecare.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\progress_horizontal_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/list_selector_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/rounded_rectangle_background.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/rounded_rectangle_background.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue_disabled9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\bg_spinner_blue_disabled9.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_orange_new.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_orange_new.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_error.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_error.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_investissement_avenir.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_investissement_avenir.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/banniere.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/banniere.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\progress_horizontal_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_green_new.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_green_new.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\ratingbar_full_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/icon_sensor_balance.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/icon_sensor_balance.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_exit.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_exit.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\btn_default_holo_light.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_newel.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_newel.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_warning_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_warning_white.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_bg_blue.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\spinner_bg_blue.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_rectangle_background.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\info_rectangle_background.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\tab_indicator_ab_ecare.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_balance.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_sensor_balance.png"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_alert3.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_info_alert3.png"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\selectable_background_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/drawable/ic_volume_bluetooth_in_call.png",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/drawable/ic_volume_bluetooth_in_call.png"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_utbm.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_partenaire_utbm.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_caisses_des_depots_old.gif",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_caisses_des_depots_old.gif"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\pressed_background_ecare.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_right.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_btn_delete.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_btn_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rectangle_background.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\rounded_rectangle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_centich.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_partenaire_centich.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\scrubber_progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue_selected9.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\bg_spinner_blue_selected9.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_balance.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_sensor_balance.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\btn_check_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\edit_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_rectangle_background.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\info_rectangle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_new_bottom_white9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\bg_btn_new_bottom_white9.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_oxy.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_sensor_oxy.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_patient.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_patient.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_white.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_investissement_avenir.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_investissement_avenir.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\btn_toggle_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_new_bottom_white9.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\bg_btn_new_bottom_white9.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comp_up.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_comp_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_white2_selected9.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\bg_spinner_white2_selected9.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_alert4.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_info_alert4.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\ratingbar_full_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\selectable_background_ecare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sensor_cardio.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_sensor_cardio.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_ecare.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\spinner_background_ab_ecare.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baren.jpg",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\baren.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_uha.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_partenaire_uha.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_hus.jpg",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_hus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wifi_deconnect.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_wifi_deconnect.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_alert3.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_info_alert3.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_rectangle_alert4_info.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\background_rectangle_alert4_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\btn_toggle_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_newel.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_partenaire_newel.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_orange_new.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_orange_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\edit_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_btn_delete.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_btn_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_left.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_patient.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_patient.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_error_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_error_white.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_graph.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_menu_graph.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wifi_deconnect.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_wifi_deconnect.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_rectangle_background.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\info_rectangle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\edit_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu_alert.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_menu_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banniere.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\banniere.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_caisses_des_depots.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_caisses_des_depots.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_filled_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\ratingbar_full_filled_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue_disabled9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_spinner_blue_disabled9.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_newel.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_partenaire_newel.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_bg_blue.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\spinner_bg_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_blue9.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\bg_spinner_blue9.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_full_filled_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\ratingbar_full_filled_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_error.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_error.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banniere.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\banniere.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banniere.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\banniere.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_info_white.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ecare_new_just_logo_min.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_ecare_new_just_logo_min.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baren.jpg",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\baren.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_alert4.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_info_alert4.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_btn_graph.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_btn_graph.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_battery_very_low.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_battery_very_low.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_stetho.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_stetho.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_info_white.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_battery_low.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_battery_low.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_bg_blue.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\spinner_bg_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_patient_white.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_patient_white.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_mfam.jpg",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_partenaire_mfam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_alert3.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_info_alert3.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_warning_white.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_warning_white.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_new_bottom_white9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\bg_btn_new_bottom_white9.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\pressed_background_ecare.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_mode_test.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\check_mode_test.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_battery_low.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_battery_low.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_white2_selected9.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\bg_spinner_white2_selected9.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_green_new.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_green_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_error_white.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\icon_error_white.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_hus.jpg",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\logo_partenaire_hus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_caisses_des_depots_old.gif",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\logo_caisses_des_depots_old.gif"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\scrubber_progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info_alert4.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\icon_info_alert4.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rectangle_background.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\rounded_rectangle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\fcf416524084b3ebd97600a04e14d076e04cdc6d\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_btn_delete.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_btn_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_ecare.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\selectable_background_ecare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_partenaire_centich.png",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\logo_partenaire_centich.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_spinner_white29.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\bg_spinner_white29.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\tab_indicator_ab_ecare.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_orange_new.png",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\icon_orange_new.png"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_holo_light.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\drawable\\btn_radio_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_holo_light.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\drawable\\btn_radio_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\drawable\\spinner_background_ab_ecare.xml"
     }
 ]

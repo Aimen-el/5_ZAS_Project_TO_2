@@ -12,6 +12,7 @@ import com.semantic.ecare_android_v2.ui.common.activity.GenericDisconnectedActiv
 import com.semantic.ecare_android_v2.ui.common.adapter.PatientListAdapter;
 import com.semantic.ecare_android_v2.util.Constants;
 import com.semantic.ecare_android_v2.util.Functions;
+import com.semantic.ecare_android_v2.util.MapsActivity;
 
 import android.os.Bundle;
 import android.app.AlertDialog;
@@ -197,6 +198,7 @@ public class MainActivity extends GenericDisconnectedActivity {
 		}	
 		return true;
 	}
+
 
 
 	public void viewAllNotesDialog(){

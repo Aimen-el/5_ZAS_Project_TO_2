@@ -1,274 +1,506 @@
 [
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_patient_item.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_debug.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serverexept.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_serverexept.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_mesure_set_patient.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_mesure_set_patient.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_serverexept.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_serverexept.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_time_span.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_time_span.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_row_inflate.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\note_row_inflate.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listitem_device.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_patient_item.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\listview_patient_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_view.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\actionbar_view.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_splash_screen.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_inflate.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\alert_row_inflate.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_debug.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listitem_device.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_error.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_error.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_patient_item.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\spinner_patient_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/note_row_inflate.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/note_row_inflate.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serverexept.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_serverexept.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serverexept.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_serverexept.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_alert.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_about.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_last_measure_item.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_last_measure_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_graph.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alert.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_alert.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unactived.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unactived.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_last_measure_item.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\listview_last_measure_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_inflate.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_inflate.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/listview_measure_set_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/listview_measure_set_patient_item.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_notes.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_all_notes.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/alert_row_inflate.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/alert_row_inflate.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/alert_row_no_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/alert_row_no_alert.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_about.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unsuportted.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\device_unsuportted.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_mesure.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unactived.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\device_unactived.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/include_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/include_mesure.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_view.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\actionbar_view.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\include_mesure.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\spinner_select_graph.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/popup_device_data.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/popup_device_data.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unsuportted.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unsuportted.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure_set_patient.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_mesure_set_patient.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_time_span.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_time_span.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\header_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/header_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/header_ecare.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph2.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_graph2.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph2.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_graph2.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_patient_item.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_note_dialog.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\popup_note_dialog.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_no_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_no_alert.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unaffected.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unaffected.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_measure_set_patient_item.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_measure_set_patient_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_wait.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_wait.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_patient_item.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\listview_patient_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_chart.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_chart.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_device_data.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\popup_device_data.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_note_dialog.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\popup_note_dialog.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_error.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_error.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/listitem_device.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wait.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_wait.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_alert.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_no_alert.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\alert_row_no_alert.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/actionbar_view.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/actionbar_view.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_error.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_error.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_device_data.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\popup_device_data.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_notes.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_all_notes.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_time_span.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\alert_row_time_span.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_select_sensor_black.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_select_sensor_black.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph2.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\spinner_select_graph2.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_debug.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_debug.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/excpted_internet.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/excpted_internet.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_row_inflate.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\note_row_inflate.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_patient_item.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_mesure.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\include_mesure.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_error.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_error.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_mesure.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/listview_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/listview_patient_item.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unaffected.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\device_unaffected.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/listview_last_measure_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/listview_last_measure_item.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_row_inflate.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\note_row_inflate.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_select_graph2.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_select_graph2.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wait.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_wait.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chart.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_chart.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serverexept.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_serverexept.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_select_graph.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_select_graph.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_no_alert.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_no_alert.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_last_measure_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_last_measure_item.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_measure_set_patient_item.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\listview_measure_set_patient_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_select_sensor.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_select_sensor.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chart.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_chart.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_mesure.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/device_unaffected.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/device_unaffected.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\listitem_device.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_sensor.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_measure_set_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_measure_set_patient_item.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\header_ecare.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chart.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_chart.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph2.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\spinner_select_graph2.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wait.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_wait.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_debug.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/device_unsuportted.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/device_unsuportted.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_ecare.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\header_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\excpted_internet.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\excpted_internet.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_row_inflate.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\note_row_inflate.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/alert_row_time_span.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/alert_row_time_span.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure_set_patient.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_mesure_set_patient.xml"
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor_black.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_sensor_black.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_patient_item.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_patient_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_sensor.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unsuportted.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\device_unsuportted.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/popup_note_dialog.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/popup_note_dialog.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\excpted_internet.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\excpted_internet.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/device_unactived.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/device_unactived.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unaffected.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unaffected.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_all_notes.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_all_notes.xml"
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_notes.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_all_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_last_measure_item.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\listview_last_measure_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_mesure.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unaffected.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\device_unaffected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure_set_patient.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_mesure_set_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_device_data.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\popup_device_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\spinner_select_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wait.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_wait.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\excpted_internet.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\excpted_internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\excpted_internet.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\excpted_internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alert.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_view.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\actionbar_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_debug.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alert.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_view.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\actionbar_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure_set_patient.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_mesure_set_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_measure_set_patient_item.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\listview_measure_set_patient_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_patient_item.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_patient_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor_black.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\spinner_select_sensor_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_time_span.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\alert_row_time_span.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_notes.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_all_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor_black.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\spinner_select_sensor_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_inflate.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\alert_row_inflate.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unsuportted.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unsuportted.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\spinner_select_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\spinner_select_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_inflate.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_inflate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chart.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_mesure.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\include_mesure.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_note_dialog.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\popup_note_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor_black.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_sensor_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_ecare.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\header_ecare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unactived.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unactived.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_error.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_device_data.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\popup_device_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_no_alert.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\alert_row_no_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Unknown\\.android\\build-cache\\6e69b67b74453ccba8373f75ae074500c06bfa28\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unactived.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\device_unactived.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_patient_item.xml",
+        "source": "C:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\src\\main\\res\\layout\\spinner_patient_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_note_dialog.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\popup_note_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\activity_mesure.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_mesure.xml",
+        "source": "C:\\Users\\zakaria_afir\\Desktop\\TO52\\ZAS_Project_TO_52\\app\\src\\main\\res\\layout\\include_mesure.xml"
     }
 ]

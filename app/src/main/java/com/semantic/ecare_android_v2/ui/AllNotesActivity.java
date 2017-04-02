@@ -20,6 +20,7 @@ import com.semantic.ecare_android_v2.object.NoteModel;
 import com.semantic.ecare_android_v2.object.Patient;
 import com.semantic.ecare_android_v2.ui.common.activity.GenericDisconnectedActivity;
 import com.semantic.ecare_android_v2.util.Constants;
+import com.semantic.ecare_android_v2.util.MapsActivity;
 
 import net.newel.android.Log;
 
@@ -109,7 +110,10 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
         	}
 		}
 	};
-	
+	public void openmaps(View view) {
+		Intent intent = new Intent(this, MapsActivity.class);
+		startActivity(intent);
+	}
 	private TableRow addUINote(NoteModel note){
 		TableRow inflateRow = (TableRow)View.inflate(context, R.layout.note_row_inflate, null);
 		

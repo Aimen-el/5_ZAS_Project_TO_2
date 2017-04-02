@@ -135,16 +135,17 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_except">ExceptActivity</string>
     <string name="wifi_disconnecte">Vous n\'êtes pas connecté</string>
-    <string name="verification">Vérifiez votre connexion Internet (Wifi,3G,4G)</string>                                
+    <string name="verification">Vérifiez votre connexion Internet (Wifi,3G,4G)</string>
     <string name="wifi_connect">Vous êtes bien connecté</string>
     <string name="tablet_unsuportted">Tablette non reconnue</string>
     <string name="tablet_unactivad">Tablette non activée</string>
-    <string name="contacte_admin">Contactez votre administarateur</string>                               
+    <string name="contacte_admin">Contactez votre administarateur</string>
     <string name="tablet_unaffected">Tablette non affectée </string>
     <string name="server_stop">Serveur n\'est pas démarré</string>
     <string name="info_admin">Contacte :\n 
                               Tel : 03 89 32 96 96 \n
                               Email: info@newel.net \n
                               Adresse : 36, rue Paul Cézanne 68200 Mulhouse</string>
+    <string name="title_activity_maps">Map</string>
 
 </resources>

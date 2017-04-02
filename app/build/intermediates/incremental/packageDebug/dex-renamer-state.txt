@@ -1,4 +1,7 @@
-#Tue Mar 21 18:58:31 CET 2017
-base.0=C\:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Apr 02 19:42:31 CEST 2017
+base.0=C\:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8ff7d96242814d4ba4924b967673791d10519f06
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_376401077a0e5b590538461a233f3fd5b883d801\\classes.dex
+base.1=C\:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_376401077a0e5b590538461a233f3fd5b883d801
+file.0=C\:\\Users\\Unknown\\AndroidStudioProjects\\5_ZAS_Project_TO_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8ff7d96242814d4ba4924b967673791d10519f06\\classes.dex

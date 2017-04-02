@@ -30,6 +30,7 @@ import com.semantic.ecare_android_v2.object.NoteModel;
 import com.semantic.ecare_android_v2.ui.common.activity.GenericConnectedActivity;
 import com.semantic.ecare_android_v2.util.Constants;
 import com.semantic.ecare_android_v2.util.FunctionsUI;
+import com.semantic.ecare_android_v2.util.MapsActivity;
 
 import net.newel.android.Log;
 

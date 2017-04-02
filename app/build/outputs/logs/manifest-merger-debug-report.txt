@@ -1,275 +1,333 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:2:1-150:12
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:2:1-155:12
 	package
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:3:5-44
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:23.4.0] /Users/zakaria_afir/.android/build-cache/fa21b6d99e85b882bc7cecc3319a4c8e8962ea9d/output/AndroidManifest.xml:20:5-43
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Unknown\.android\build-cache\76701567208b4ecd1de1b7f5861dbe60efbf6985\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Unknown\.android\build-cache\fcf416524084b3ebd97600a04e14d076e04cdc6d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Unknown\.android\build-cache\5063c17012942a9697e55705f9e628de3dfa0b29\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Unknown\.android\build-cache\abfb99d844a318fc35beabe1cba434a7ce07d332\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Unknown\.android\build-cache\6e69b67b74453ccba8373f75ae074500c06bfa28\output\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Unknown\.android\build-cache\4ae9241c8a26a81e3b1a8bad3de67e68b0f2b1f8\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\Unknown\.android\build-cache\4ae9241c8a26a81e3b1a8bad3de67e68b0f2b1f8\output\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:10:5-74
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:11:5-74
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:10:22-71
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:11:22-71
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:11:5-68
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:12:5-68
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:11:22-65
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:12:5-79
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Unknown\.android\build-cache\76701567208b4ecd1de1b7f5861dbe60efbf6985\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:12:22-76
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:13:5-81
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:13:22-78
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.READ_LOGS
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:14:5-68
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:15:5-68
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:14:22-65
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:15:22-65
 uses-permission#android.permission.INTERNET
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:15:5-67
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Unknown\.android\build-cache\76701567208b4ecd1de1b7f5861dbe60efbf6985\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:15:22-64
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:16:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:16:5-76
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:16:22-73
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:25:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:26:22-77
 application
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:18:5-148:19
-MERGED from [com.android.support:support-v4:23.4.0] /Users/zakaria_afir/.android/build-cache/fa21b6d99e85b882bc7cecc3319a4c8e8962ea9d/output/AndroidManifest.xml:22:5-20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:28:5-153:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Unknown\.android\build-cache\76701567208b4ecd1de1b7f5861dbe60efbf6985\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Unknown\.android\build-cache\fcf416524084b3ebd97600a04e14d076e04cdc6d\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Unknown\.android\build-cache\5063c17012942a9697e55705f9e628de3dfa0b29\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Unknown\.android\build-cache\abfb99d844a318fc35beabe1cba434a7ce07d332\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Unknown\.android\build-cache\6e69b67b74453ccba8373f75ae074500c06bfa28\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Unknown\.android\build-cache\4ae9241c8a26a81e3b1a8bad3de67e68b0f2b1f8\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:31:9-41
 	android:allowBackup
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:29:9-35
 	android:icon
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:20:9-45
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:30:9-45
 	android:theme
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:22:9-43
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:32:9-43
 activity#com.semantic.ecare_android_v2.ui.SplashScreen
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:23:9-33:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:33:9-43:20
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:27:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:37:13-50
 	android:label
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:25:13-65
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:35:13-65
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:26:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:24:13-73
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:34:13-44
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:41:27-74
 activity#com.semantic.ecare_android_v2.ui.MainActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:34:9-39:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:44:9-48:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:38:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:48:13-50
 	android:label
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:36:13-56
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:46:13-56
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:37:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:47:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:35:13-73
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:45:13-44
 activity#com.semantic.ecare_android_v2.ui.WaitActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:40:9-44:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:49:9-52:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:43:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:52:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:42:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:51:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:41:13-73
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:50:13-44
 activity#com.semantic.ecare_android_v2.ui.WaitActivityPatient
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:45:9-49:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:53:9-56:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:48:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:56:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:47:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:55:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:46:13-80
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:54:13-51
 activity#com.semantic.ecare_android_v2.ui.ErrorActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:50:9-54:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:57:9-60:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:53:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:60:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:52:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:59:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:51:13-74
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:58:13-45
 activity#com.semantic.ecare_android_v2.ui.AlertActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:55:9-59:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:61:9-64:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:58:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:64:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:57:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:63:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:56:13-74
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:62:13-45
 activity#com.semantic.ecare_android_v2.ui.MeasureActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:60:9-64:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:65:9-68:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:63:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:68:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:62:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:67:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:61:13-76
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:66:13-47
 activity#com.semantic.ecare_android_v2.ui.ChartActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:65:9-69:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:69:9-72:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:68:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:72:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:67:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:71:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:66:13-74
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:70:13-45
 activity#com.semantic.ecare_android_v2.ui.MeasureSetPatientActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:70:9-74:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:73:9-76:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:73:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:76:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:72:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:75:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:71:13-86
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:74:13-57
 activity#com.semantic.ecare_android_v2.ui.AboutActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:75:9-79:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:77:9-80:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:78:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:80:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:77:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:79:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:76:13-74
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:78:13-45
 activity#com.semantic.ecare_android_v2.ui.DebugActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:80:9-84:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:81:9-84:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:83:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:84:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:82:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:83:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:81:13-74
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:82:13-45
 activity#com.semantic.ecare_android_v2.ui.ExceptActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:85:9-89:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:85:9-88:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:88:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:88:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:87:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:87:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:86:13-75
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:86:13-46
 activity#com.semantic.ecare_android_v2.ui.DeviceUnactivedActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:90:9-94:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:89:9-92:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:93:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:92:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:92:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:91:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:91:13-84
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:90:13-55
 activity#com.semantic.ecare_android_v2.ui.DeviceUnaffectedActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:95:9-99:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:93:9-96:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:98:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:96:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:97:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:95:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:96:13-85
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:94:13-56
 activity#com.semantic.ecare_android_v2.ui.DeviceUnsupportedActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:100:9-104:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:97:9-100:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:103:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:100:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:102:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:99:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:101:13-86
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:98:13-57
 activity#com.semantic.ecare_android_v2.ui.ServerExceptActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:105:9-109:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:101:9-104:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:108:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:104:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:107:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:103:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:106:13-81
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:102:13-52
 activity#com.semantic.ecare_android_v2.ui.NoteDialogActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:110:9-115:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:105:9-109:68
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:113:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:108:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:112:13-43
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:107:13-43
 	android:theme
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:114:13-56
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:109:13-56
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:111:13-79
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:106:13-50
 activity#com.semantic.ecare_android_v2.ui.DeviceDataActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:116:9-121:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:110:9-114:68
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:119:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:113:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:118:13-43
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:112:13-43
 	android:theme
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:120:13-56
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:114:13-56
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:117:13-79
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:111:13-50
 activity#com.semantic.ecare_android_v2.ui.AllNotesActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:122:9-126:20
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:115:9-118:62
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:125:13-50
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:118:13-50
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:124:13-44
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:117:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:123:13-77
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:116:13-48
 service#com.signove.health.service.HealthService
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:128:9-137:19
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:120:9-129:19
 	android:enabled
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:130:13-35
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:122:13-35
 	android:exported
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:131:13-36
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:123:13-36
 	android:permission
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:132:13-62
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:124:13-62
 	android:stopWithTask
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:133:13-41
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:125:13-41
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:129:13-68
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:121:13-68
 intent-filter#com.signove.health.service.HealthService
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:134:13-136:29
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:126:13-128:29
 action#com.signove.health.service.HealthService
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:135:17-83
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:127:17-83
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:135:25-80
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:127:25-80
 service#com.signove.health.service.BluetoothHDPService
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:138:9-82
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:130:9-82
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:138:18-79
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:130:18-79
 service#com.semantic.ecare_android_v2.core.ServiceEcare
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:139:9-140:19
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:131:9-62
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:139:18-80
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:131:18-51
 service#com.semantic.ecare_android_v2.core.ServiceAntidoteClient
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:141:9-142:19
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:132:9-71
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:141:18-89
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:132:18-60
 service#com.semantic.ecare_android_v2.object.UartServiceJumper
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:143:9-146:85
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:133:9-136:65
 	android:enabled
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:144:13-35
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:135:13-35
 	android:permission
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:145:13-62
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:136:13-62
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:146:13-82
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:134:13-53
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:146:9-148:55
+	android:value
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:148:13-52
+	android:name
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:147:13-58
+activity#com.semantic.ecare_android_v2.util.MapsActivity
+ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:150:9-152:68
+	android:label
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:152:13-56
+	android:name
+		ADDED from C:\Users\Unknown\AndroidStudioProjects\5_ZAS_Project_TO_2\app\src\main\AndroidManifest.xml:151:13-46
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Unknown\.android\build-cache\76701567208b4ecd1de1b7f5861dbe60efbf6985\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Unknown\.android\build-cache\76701567208b4ecd1de1b7f5861dbe60efbf6985\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Unknown\.android\build-cache\76701567208b4ecd1de1b7f5861dbe60efbf6985\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Unknown\.android\build-cache\fcf416524084b3ebd97600a04e14d076e04cdc6d\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Unknown\.android\build-cache\fcf416524084b3ebd97600a04e14d076e04cdc6d\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Unknown\.android\build-cache\fcf416524084b3ebd97600a04e14d076e04cdc6d\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Unknown\.android\build-cache\fcf416524084b3ebd97600a04e14d076e04cdc6d\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Unknown\.android\build-cache\abfb99d844a318fc35beabe1cba434a7ce07d332\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Unknown\.android\build-cache\abfb99d844a318fc35beabe1cba434a7ce07d332\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Unknown\.android\build-cache\abfb99d844a318fc35beabe1cba434a7ce07d332\output\AndroidManifest.xml:20:20-65
