@@ -1558,6 +1558,7 @@ public class ServiceEcare extends Service implements BuilderPatientListListener,
 		ContentValues cv = new ContentValues();
 		cv.put("note",note.getNote());
 		cv.put("noteDate",note.getNoteDate());;
+		cv.put("address",note.getAddress());
 
 		DataBaseConnector dbc = new DataBaseConnector(this);
 		SQLiteDatabase db = dbc.openWrite();
@@ -1594,6 +1595,7 @@ public class ServiceEcare extends Service implements BuilderPatientListListener,
 		ContentValues cv = new ContentValues();
 		cv.put("note",note.getNote());
 		cv.put("noteDate",note.getNoteDate());;
+		cv.put("address",note.getAddress());;
 
 		DataBaseConnector dbc = new DataBaseConnector(this);
 		SQLiteDatabase db = dbc.openWrite();
@@ -1630,6 +1632,7 @@ public class ServiceEcare extends Service implements BuilderPatientListListener,
 		ContentValues cv = new ContentValues();
 		cv.put("note",note.getNote());
 		cv.put("noteDate",note.getNoteDate());;
+		cv.put("address",note.getAddress());
 
 		DataBaseConnector dbc = new DataBaseConnector(this);
 		SQLiteDatabase db = dbc.openWrite();

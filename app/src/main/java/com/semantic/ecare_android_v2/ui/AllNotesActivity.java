@@ -12,6 +12,7 @@ import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
 
+import com.semantic.ecare_android_v2.MapsActivity;
 import com.semantic.ecare_android_v2.R;
 import com.semantic.ecare_android_v2.object.Alert;
 import com.semantic.ecare_android_v2.object.CompoundMeasure;
@@ -87,7 +88,7 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
 		this.noteTableLayout = (TableLayout)findViewById(R.id.tableNotes);
 		int tagInt = 0;
 		for(NoteModel n : noteList){
-			TableRow row = addUINote(new NoteModel(n.getNote(), n.getNoteDate(), n.getTargetId(), n.getTargetTypeId()));
+			TableRow row = addUINote(new NoteModel(n.getNote(),n.getAddress(), n.getNoteDate(), n.getTargetId(), n.getTargetTypeId()));
 			row.setTag(tagInt++);
 			rowList.add(row);
 		}
@@ -109,6 +110,11 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
         	}
 		}
 	};
+
+	public void openmaps(View view) {
+		Intent intent = new Intent(this, MapsActivity.class);
+		startActivity(intent);
+	}
 	
 	private TableRow addUINote(NoteModel note){
 		TableRow inflateRow = (TableRow)View.inflate(context, R.layout.note_row_inflate, null);
@@ -135,7 +141,7 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
 		
 		tvNote.setText(note.getNote());
 		tvNoteDate.setText(note.getNoteDate());
-		
+
 		// todo : bind the buttons
 		
 		final int targetId = note.getTargetId();
