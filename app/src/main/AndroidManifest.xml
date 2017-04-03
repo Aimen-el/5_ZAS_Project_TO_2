@@ -2,11 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.semantic.ecare_android_v2"
     android:versionCode="2"
-    android:versionName="1.8" >
+    android:versionName="1.8">
 
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="21" />
+
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -15,16 +16,25 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/Theme.ecare" >
+        android:theme="@style/Theme.ecare">
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.SplashScreen"
+            android:name=".ui.SplashScreen"
             android:label="@string/title_activity_splash_screen"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
+            android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -32,119 +42,114 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.MainActivity"
+            android:name=".ui.MainActivity"
             android:label="@string/title_activity_main"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.WaitActivity"
+            android:name=".ui.WaitActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.WaitActivityPatient"
+            android:name=".ui.WaitActivityPatient"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.ErrorActivity"
+            android:name=".ui.ErrorActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.AlertActivity"
+            android:name=".ui.AlertActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.MeasureActivity"
+            android:name=".ui.MeasureActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.ChartActivity"
+            android:name=".ui.ChartActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.MeasureSetPatientActivity"
+            android:name=".ui.MeasureSetPatientActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.AboutActivity"
+            android:name=".ui.AboutActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.DebugActivity"
+            android:name=".ui.DebugActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.ExceptActivity"
+            android:name=".ui.ExceptActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.DeviceUnactivedActivity"
+            android:name=".ui.DeviceUnactivedActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.DeviceUnaffectedActivity"
+            android:name=".ui.DeviceUnaffectedActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.DeviceUnsupportedActivity"
+            android:name=".ui.DeviceUnsupportedActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.ServerExceptActivity"
+            android:name=".ui.ServerExceptActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.NoteDialogActivity"
+            android:name=".ui.NoteDialogActivity"
             android:launchMode="singleTop"
             android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Dialog" >
-        </activity>
+            android:theme="@android:style/Theme.Dialog"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.DeviceDataActivity"
+            android:name=".ui.DeviceDataActivity"
             android:launchMode="singleTop"
             android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Dialog" >
-        </activity>
+            android:theme="@android:style/Theme.Dialog"></activity>
         <activity
-            android:name="com.semantic.ecare_android_v2.ui.AllNotesActivity"
+            android:name=".ui.AllNotesActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape"></activity>
 
         <service
             android:name="com.signove.health.service.HealthService"
             android:enabled="true"
             android:exported="true"
             android:permission="android.permission.BLUETOOTH"
-            android:stopWithTask="false" >
+            android:stopWithTask="false">
             <intent-filter>
                 <action android:name="com.signove.health.service.HealthService" />
             </intent-filter>
         </service>
         <service android:name="com.signove.health.service.BluetoothHDPService" />
-        <service android:name="com.semantic.ecare_android_v2.core.ServiceEcare" >
-        </service>
-        <service android:name="com.semantic.ecare_android_v2.core.ServiceAntidoteClient" >
-        </service>
+        <service android:name=".core.ServiceEcare"></service>
+        <service android:name=".core.ServiceAntidoteClient"></service>
         <service
+            android:name=".object.UartServiceJumper"
             android:enabled="true"
-            android:permission="android.permission.BLUETOOTH"
-            android:name="com.semantic.ecare_android_v2.object.UartServiceJumper" />
+            android:permission="android.permission.BLUETOOTH" />
 
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps"></activity>
     </application>
 
 </manifest>

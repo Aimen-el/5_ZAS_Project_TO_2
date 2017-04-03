@@ -128,7 +128,7 @@ public class Constants {
 	}
 	
 	public static final int DATABASE_VERSION = 16; //TODO : changer cette version pour faire un "OnUpdate" de la base et ainsi supprimer l'ancienne structure de la BDD de l'application
-	public static final String DATABASE_NAME = "ecaropital";
+	public static final String DATABASE_NAME = "ecaropital.db";
 	public static final String TABLE_PATIENT = "patient";
 	public static final String TABLE_USER_CONSTANTS = "user_constant";
 	public static final String TABLE_CONFIGURATION = "configuration";
@@ -142,7 +142,7 @@ public class Constants {
 	+"idUser TEXT NOT NULL,"
 	+"gender INTEGER(1) NOT NULL,"
 	+"name TEXT NOT NULL," // nom
-	//+"address TEXT NOT NULL,"
+	+"address TEXT NOT NULL,"
 	+"surname TEXT NOT NULL," // prenom
 	+"symptome TEXT NOT NULL,"
 	+"note TEXT NOT NULL,"

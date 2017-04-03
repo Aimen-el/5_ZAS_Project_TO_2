@@ -135,5 +135,9 @@ public abstract class GenericConnectedActivity extends GenericActivity implement
 		}
 	};
 	*/
+	/*public void openmaps(View view) {
+		Intent intent = new Intent(this, MapsActivity.class);
+		startActivity(intent);
+	}*/
     
 }

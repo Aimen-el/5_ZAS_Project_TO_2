@@ -35,6 +35,7 @@ public class NoteDialogActivity extends Activity {
 	private Button deleteNoteButton;
 	private Button completeNoteButton;
 	private TextView noteTextView;
+	private TextView noteAddressTextView;
 	private TextView noteDateTextView;
 	private Context context = this;
 	private AlertDialog validateDialogTakeNote;
@@ -54,6 +55,7 @@ public class NoteDialogActivity extends Activity {
 		}
 		
 		this.noteTextView = (TextView)findViewById(R.id.noteTextView);
+		this.noteAddressTextView = (TextView)findViewById(R.id.addressTextView);
 		this.noteDateTextView = (TextView)findViewById(R.id.noteDateTextView);
 		updateNoteTextView();
 		this.noteTaken = note.getNote();
@@ -141,12 +143,17 @@ public class NoteDialogActivity extends Activity {
 			if(note.getNote().isEmpty()){
 				noteTextView.setText("");
 				noteDateTextView.setText("");
+				noteAddressTextView.setText("");
+
 				noteTextView.setVisibility(View.GONE);
+				noteAddressTextView.setVisibility(View.GONE);
 				noteDateTextView.setVisibility(View.GONE);
 			} else {
 				noteTextView.setText(note.getNote());
+				noteAddressTextView.setText(note.getAddress());
 				noteDateTextView.setText(note.getNoteDate());
 				noteTextView.setVisibility(View.VISIBLE);
+				noteAddressTextView.setVisibility(View.VISIBLE);
 				noteDateTextView.setVisibility(View.VISIBLE);
 			}
 	}

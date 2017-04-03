@@ -79,7 +79,7 @@ public class BuilderPatientList {
 		DataBaseConnector dbc = new DataBaseConnector(service);
 		SQLiteDatabase db = dbc.openRead();
 		if(db!=null){
-			Cursor cursor_patient = db.query(Constants.TABLE_PATIENT, new String[] { "id", "idUser", "gender", "name", "surname", "symptome", "note", "noteDate" }, null, null, null, null, "name ASC");
+			Cursor cursor_patient = db.query(Constants.TABLE_PATIENT, new String[] { "id", "idUser", "gender", "name", "address", "surname", "symptome", "note", "noteDate" }, null, null, null, null, "name ASC");
 			if (cursor_patient != null){
 				if(cursor_patient.getCount()>=0){
 					Log.i(Constants.TAG, CLASSNAME + " pas de problem, on charge depuis la base");
@@ -119,7 +119,7 @@ public class BuilderPatientList {
 		if(cursor.getCount()>0){
 			cursor.moveToFirst();
 		    do{
-		    	Patient patient = new Patient(cursor.getInt(0),cursor.getString(1), cursor.getInt(2), cursor.getString(3), cursor.getString(4), cursor.getString(5), cursor.getString(6), cursor.getString(7));
+		    	Patient patient = new Patient(cursor.getInt(0),cursor.getString(1), cursor.getInt(2), cursor.getString(3), cursor.getString(4), cursor.getString(5), cursor.getString(6), cursor.getString(7), cursor.getString(8));
 		    	patientList.add(patient);
 		    } while(cursor.moveToNext());
 		}

@@ -87,7 +87,7 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
 		this.noteTableLayout = (TableLayout)findViewById(R.id.tableNotes);
 		int tagInt = 0;
 		for(NoteModel n : noteList){
-			TableRow row = addUINote(new NoteModel(n.getNote(), n.getNoteDate(), n.getTargetId(), n.getTargetTypeId()));
+			TableRow row = addUINote(new NoteModel(n.getNote(),n.getAddress(), n.getNoteDate(), n.getTargetId(), n.getTargetTypeId()));
 			row.setTag(tagInt++);
 			rowList.add(row);
 		}
@@ -109,6 +109,8 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
         	}
 		}
 	};
+
+
 	
 	private TableRow addUINote(NoteModel note){
 		TableRow inflateRow = (TableRow)View.inflate(context, R.layout.note_row_inflate, null);
@@ -135,7 +137,7 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
 		
 		tvNote.setText(note.getNote());
 		tvNoteDate.setText(note.getNoteDate());
-		
+
 		// todo : bind the buttons
 		
 		final int targetId = note.getTargetId();
@@ -165,7 +167,7 @@ public class AllNotesActivity extends GenericDisconnectedActivity {
 				
 				else if (targetTypeId == Constants.PATIENT_TYPE){
 					Patient patient = findPatientById(targetId);
-					NoteModel model = new NoteModel(patient.getNote(), patient.getNoteDate(), targetId, targetTypeId);
+					NoteModel model = new NoteModel(patient.getNote(),patient.getAddress(), patient.getNoteDate(), targetId, targetTypeId);
 					
 					Intent intent = new Intent(context, NoteDialogActivity.class);
 					intent.putExtra(Constants.NOTEMODEL_KEY, model);

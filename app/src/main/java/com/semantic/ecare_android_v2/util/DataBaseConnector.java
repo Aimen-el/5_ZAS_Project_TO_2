@@ -1,13 +1,13 @@
 package com.semantic.ecare_android_v2.util;
 
 
-import net.newel.android.Log;
 import android.content.Context;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteDatabaseLockedException;
 import android.database.sqlite.SQLiteOpenHelper;
-import java.util.Date;
+
+import net.newel.android.Log;
 
 public class DataBaseConnector {
 
@@ -96,11 +96,11 @@ public class DataBaseConnector {
 			//données de test
 			//patient
 			try{
-				String request="INSERT OR REPLACE INTO " + Constants.TABLE_PATIENT + " VALUES(1 ,'patient1', 1,'patient1', 'patient1', '', 'Note pour patient 1', '2015-05-07 15:40:18.000')";
+				String request="INSERT OR REPLACE INTO " + Constants.TABLE_PATIENT + " VALUES(1 ,'patient1', 1,'patient1', '6D Boulevard Anatole France, 90000 BELFORT', 'patient1', '', 'Note pour patient 1', '2015-05-07 15:40:18.000')";
 				db.execSQL(request);
-				request="INSERT OR REPLACE INTO " + Constants.TABLE_PATIENT + " VALUES(2 ,'patient2', 1,'patient2', 'patient2', '', 'Note pour patient 2', '2015-05-07 15:40:18.000')";
+				request="INSERT OR REPLACE INTO " + Constants.TABLE_PATIENT + " VALUES(2 ,'patient2', 1,'patient2', '2 RUE ERNEST DUVILLARD, 90000 BELFORT', 'patient2', '', 'Note pour patient 2', '2015-05-07 15:40:18.000')";
 				db.execSQL(request);
-				request="INSERT OR REPLACE INTO " + Constants.TABLE_PATIENT + " VALUES(3 ,'patient3', 1,'patient3', 'patient3', '', 'Note pour patient 3', '2015-05-07 15:40:18.000')";
+				request="INSERT OR REPLACE INTO " + Constants.TABLE_PATIENT + " VALUES(3 ,'patient3', 1,'patient3', '12 Rue Thierry Mieg, Rue Edouard Branly, 90000 Belfort, France', 'patient3', '', 'Note pour patient 3', '2015-05-07 15:40:18.000')";
 				db.execSQL(request);
 			}catch(Exception e){
 				Log.e(Constants.TAG,CLASSNAME + " Exception à l'insertion des patients " );
