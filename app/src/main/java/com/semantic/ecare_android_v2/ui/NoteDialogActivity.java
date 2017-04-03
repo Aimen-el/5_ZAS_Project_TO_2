@@ -6,8 +6,11 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.location.Address;
+import android.location.Geocoder;
 import android.os.Bundle;
 import android.speech.RecognizerIntent;
+import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
@@ -18,9 +21,11 @@ import com.semantic.ecare_android_v2.R;
 import com.semantic.ecare_android_v2.object.NoteModel;
 import com.semantic.ecare_android_v2.util.Constants;
 
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import java.util.Locale;
 
 public class NoteDialogActivity extends Activity {
@@ -151,6 +156,11 @@ public class NoteDialogActivity extends Activity {
 			} else {
 				noteTextView.setText(note.getNote());
 				noteAddressTextView.setText(note.getAddress());
+
+				if(note.getAddress()!=null) {
+					findPatientLocation(note.getAddress());
+				}
+
 				noteDateTextView.setText(note.getNoteDate());
 				noteTextView.setVisibility(View.VISIBLE);
 				noteAddressTextView.setVisibility(View.VISIBLE);
@@ -320,5 +330,26 @@ public class NoteDialogActivity extends Activity {
 				}
 			});
 		}
+	}
+
+	public void findPatientLocation(String patientAddress){
+
+		Geocoder gc = new Geocoder(context);
+		double latitude;
+		double longitude;
+
+		if(gc.isPresent()){
+				List<Address> list = null;
+
+				try {
+					list = gc.getFromLocationName(patientAddress, 1);
+				} catch (IOException e) {
+					Log.d("trying to find location: ",e.getMessage());
+				}
+
+				Address address = list.get(0);
+				latitude = address.getLatitude();
+				longitude = address.getLongitude();
+	}
 	}
 }
