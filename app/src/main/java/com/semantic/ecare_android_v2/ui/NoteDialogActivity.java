@@ -158,7 +158,9 @@ public class NoteDialogActivity extends Activity {
 				noteAddressTextView.setText(note.getAddress());
 
 				if(note.getAddress()!=null) {
-					findPatientLocation(note.getAddress());
+					double [] arrayCord = findPatientLocation(note.getAddress());
+					Log.d("Latitude "+ note.getNote(),Double.toString(arrayCord[0]));
+					Log.d("Longitude "+note.getNote(),Double.toString(arrayCord[1]));
 				}
 
 				noteDateTextView.setText(note.getNoteDate());
@@ -332,24 +334,26 @@ public class NoteDialogActivity extends Activity {
 		}
 	}
 
-	public void findPatientLocation(String patientAddress){
+	public double[] findPatientLocation(String patientAddress){
 
 		Geocoder gc = new Geocoder(context);
-		double latitude;
-		double longitude;
+		double[] tabCord = new double[]{0.0,0.0};
 
 		if(gc.isPresent()){
-				List<Address> list = null;
-
+				List<Address> list;
 				try {
 					list = gc.getFromLocationName(patientAddress, 1);
-				} catch (IOException e) {
+
+						if (list != null) {
+							Address address = list.get(0);
+							tabCord[0] = address.getLatitude();
+							tabCord[1] = address.getLongitude();
+						}
+				}
+				catch (IOException e) {
 					Log.d("trying to find location: ",e.getMessage());
 				}
-
-				Address address = list.get(0);
-				latitude = address.getLatitude();
-				longitude = address.getLongitude();
 	}
+			return tabCord;
 	}
 }
