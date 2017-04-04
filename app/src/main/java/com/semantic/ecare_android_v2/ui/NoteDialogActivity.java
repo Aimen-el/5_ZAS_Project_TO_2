@@ -6,8 +6,11 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.location.Address;
+import android.location.Geocoder;
 import android.os.Bundle;
 import android.speech.RecognizerIntent;
+import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
@@ -18,15 +21,18 @@ import com.semantic.ecare_android_v2.R;
 import com.semantic.ecare_android_v2.object.NoteModel;
 import com.semantic.ecare_android_v2.util.Constants;
 
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import java.util.Locale;
 
 public class NoteDialogActivity extends Activity {
 
 	private static final int VOICE_RECOGNITION_REQUEST_CODE_RECORD = 1234;
 	private static final int VOICE_RECOGNITION_REQUEST_CODE_COMPLETE = 4321;
+	public static double [] ARRAY_LAT_LNG_PATIENT;
 	private NoteModel note;
 	private Button takeNoteButton;
 	private Button keyboardEditButton;
@@ -43,7 +49,7 @@ public class NoteDialogActivity extends Activity {
 	private AlertDialog keyboardEditDialog;
 	private String noteTaken = "";
 	private EditText inputFieldNoteEdit;
-	
+	private Button AddressButton;
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -53,7 +59,7 @@ public class NoteDialogActivity extends Activity {
 		if (extras != null) {
 		    this.note = (NoteModel) extras.get(Constants.NOTEMODEL_KEY);
 		}
-		
+		this.AddressButton = (Button)findViewById(R.id.openmaps);
 		this.noteTextView = (TextView)findViewById(R.id.noteTextView);
 		this.noteAddressTextView = (TextView)findViewById(R.id.addressTextView);
 		this.noteDateTextView = (TextView)findViewById(R.id.noteDateTextView);
@@ -137,6 +143,15 @@ public class NoteDialogActivity extends Activity {
 		        finish();
 		    }
 		});
+
+		this.AddressButton.setOnClickListener(new View.OnClickListener() {
+		@Override
+		public void onClick(View v) {
+				Intent intent = new Intent(NoteDialogActivity.this, MapsActivity.class);
+				startActivity(intent);
+
+		}
+	});
 	}
 	
 	private void updateNoteTextView() {
@@ -151,6 +166,13 @@ public class NoteDialogActivity extends Activity {
 			} else {
 				noteTextView.setText(note.getNote());
 				noteAddressTextView.setText(note.getAddress());
+
+				if(note.getAddress()!=null) {
+					ARRAY_LAT_LNG_PATIENT = findPatientLocation(note.getAddress());
+					Log.d("Latitude "+ note.getNote(),Double.toString(ARRAY_LAT_LNG_PATIENT[0]));
+					Log.d("Longitude "+note.getNote(),Double.toString(ARRAY_LAT_LNG_PATIENT[1]));
+				}
+
 				noteDateTextView.setText(note.getNoteDate());
 				noteTextView.setVisibility(View.VISIBLE);
 				noteAddressTextView.setVisibility(View.VISIBLE);
@@ -320,5 +342,28 @@ public class NoteDialogActivity extends Activity {
 				}
 			});
 		}
+	}
+
+	public double[] findPatientLocation(String patientAddress){
+
+		Geocoder gc = new Geocoder(context);
+		double[] tabCord = new double[]{0.0,0.0};
+
+		if(gc.isPresent()){
+				List<Address> list;
+				try {
+					list = gc.getFromLocationName(patientAddress, 1);
+
+						if (list != null) {
+							Address address = list.get(0);
+							tabCord[0] = address.getLatitude();
+							tabCord[1] = address.getLongitude();
+						}
+				}
+				catch (IOException e) {
+					Log.d("trying to find location: ",e.getMessage());
+				}
+	}
+			return tabCord;
 	}
 }
