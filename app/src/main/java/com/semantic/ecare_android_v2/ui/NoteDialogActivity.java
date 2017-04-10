@@ -17,6 +17,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.google.android.gms.maps.model.LatLng;
 import com.semantic.ecare_android_v2.R;
 import com.semantic.ecare_android_v2.object.NoteModel;
 import com.semantic.ecare_android_v2.util.Constants;
@@ -32,7 +33,7 @@ public class NoteDialogActivity extends Activity {
 
 	private static final int VOICE_RECOGNITION_REQUEST_CODE_RECORD = 1234;
 	private static final int VOICE_RECOGNITION_REQUEST_CODE_COMPLETE = 4321;
-	public static double [] ARRAY_LAT_LNG_PATIENT;
+	public static LatLng ARRAY_LAT_LNG_PATIENT;
 	private NoteModel note;
 	private Button takeNoteButton;
 	private Button keyboardEditButton;
@@ -169,8 +170,8 @@ public class NoteDialogActivity extends Activity {
 
 				if(note.getAddress()!=null) {
 					ARRAY_LAT_LNG_PATIENT = findPatientLocation(note.getAddress());
-					Log.d("Latitude "+ note.getNote(),Double.toString(ARRAY_LAT_LNG_PATIENT[0]));
-					Log.d("Longitude "+note.getNote(),Double.toString(ARRAY_LAT_LNG_PATIENT[1]));
+					Log.d("Latitude "+ note.getNote(),Double.toString(ARRAY_LAT_LNG_PATIENT.latitude));
+					Log.d("Longitude "+note.getNote(),Double.toString(ARRAY_LAT_LNG_PATIENT.longitude));
 				}
 
 				noteDateTextView.setText(note.getNoteDate());
@@ -344,11 +345,11 @@ public class NoteDialogActivity extends Activity {
 		}
 	}
 
-	public double[] findPatientLocation(String patientAddress){
+	public LatLng findPatientLocation(String patientAddress){
 
 		Geocoder gc = new Geocoder(context);
 		double[] tabCord = new double[]{0.0,0.0};
-
+		LatLng latLng = null;
 		if(gc.isPresent()){
 				List<Address> list;
 				try {
@@ -363,7 +364,8 @@ public class NoteDialogActivity extends Activity {
 				catch (IOException e) {
 					Log.d("trying to find location: ",e.getMessage());
 				}
+			latLng = new LatLng(tabCord[0],tabCord[1]);
 	}
-			return tabCord;
+			return latLng;
 	}
 }
