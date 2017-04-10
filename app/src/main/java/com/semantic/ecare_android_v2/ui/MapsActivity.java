@@ -1,8 +1,6 @@
 package com.semantic.ecare_android_v2.ui;
 
-import android.content.Context;
 import android.graphics.Color;
-import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationManager;
 import android.os.AsyncTask;
@@ -38,6 +36,7 @@ import static com.semantic.ecare_android_v2.ui.NoteDialogActivity.ARRAY_LAT_LNG_
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
+    LocationManager locationManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,6 +60,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
      */
     @Override
     public void onMapReady(GoogleMap googleMap) {
+        double latitude,longitude;
         mMap = googleMap;
         LatLng latLng = new LatLng(ARRAY_LAT_LNG_PATIENT.latitude, ARRAY_LAT_LNG_PATIENT.longitude);
         LatLng latLng1 = null;
@@ -71,15 +71,27 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.getUiSettings().setZoomControlsEnabled(true);
 
 
-        LocationManager locationManager = (LocationManager)
+       /* LocationManager locationManager = (LocationManager)
                 getSystemService(Context.LOCATION_SERVICE);
         Criteria criteria = new Criteria();
 
         Location location = locationManager.getLastKnownLocation(locationManager
-                .getBestProvider(criteria, true));
-        double latitude = location.getLatitude();
-        double longitude = location.getLongitude();
+                .getBestProvider(criteria, false));*/
 
+
+        Location location = getLastKnownLocation();
+
+
+        if(location == null)
+        {
+            //lat & long de paris :p, juste pour tester
+            latitude = 48.8566140;
+            longitude = 2.3522220;
+        }
+        else {
+            latitude = location.getLatitude();
+            longitude = location.getLongitude();
+        }
 
         latLng1 = new LatLng(latitude,longitude);
 
@@ -93,6 +105,23 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         // Start downloading json data from Google Directions API
         downloadTask.execute(url);
 
+    }
+
+    private Location getLastKnownLocation() {
+        locationManager = (LocationManager)getApplicationContext().getSystemService(LOCATION_SERVICE);
+        List<String> providers = locationManager.getProviders(true);
+        Location bestLocation = null;
+        for (String provider : providers) {
+            Location l = locationManager.getLastKnownLocation(provider);
+            if (l == null) {
+                continue;
+            }
+            if (bestLocation == null || l.getAccuracy() < bestLocation.getAccuracy()) {
+                // Found best last known location: %s", l);
+                bestLocation = l;
+            }
+        }
+        return bestLocation;
     }
 
     private String getDirectionsUrl(LatLng origin,LatLng dest){

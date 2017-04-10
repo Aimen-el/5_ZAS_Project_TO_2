@@ -50,7 +50,7 @@ public class NoteDialogActivity extends Activity {
 	private AlertDialog keyboardEditDialog;
 	private String noteTaken = "";
 	private EditText inputFieldNoteEdit;
-	private Button AddressButton;
+	private Button addressButton;
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -60,7 +60,7 @@ public class NoteDialogActivity extends Activity {
 		if (extras != null) {
 		    this.note = (NoteModel) extras.get(Constants.NOTEMODEL_KEY);
 		}
-		this.AddressButton = (Button)findViewById(R.id.openmaps);
+		this.addressButton = (Button)findViewById(R.id.openmaps);
 		this.noteTextView = (TextView)findViewById(R.id.noteTextView);
 		this.noteAddressTextView = (TextView)findViewById(R.id.addressTextView);
 		this.noteDateTextView = (TextView)findViewById(R.id.noteDateTextView);
@@ -145,7 +145,7 @@ public class NoteDialogActivity extends Activity {
 		    }
 		});
 
-		this.AddressButton.setOnClickListener(new View.OnClickListener() {
+		this.addressButton.setOnClickListener(new View.OnClickListener() {
 		@Override
 		public void onClick(View v) {
 				Intent intent = new Intent(NoteDialogActivity.this, MapsActivity.class);
