@@ -6,7 +6,10 @@ import android.location.LocationManager;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
@@ -30,6 +33,7 @@ import java.util.HashMap;
 import java.util.List;
 
 import static com.semantic.ecare_android_v2.R.id.map;
+import static com.semantic.ecare_android_v2.ui.DirectionsJSONParser.traffic_data;
 import static com.semantic.ecare_android_v2.ui.NoteDialogActivity.ARRAY_LAT_LNG_PATIENT;
 
 
@@ -37,11 +41,14 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
     LocationManager locationManager;
+    TextView dataTv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_maps);
+        dataTv = (TextView)findViewById(R.id.dataTrajetTextView);
+        dataTv.setMovementMethod(new ScrollingMovementMethod());
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(map);
@@ -87,6 +94,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             //lat & long de paris :p, juste pour tester
             latitude = 48.8566140;
             longitude = 2.3522220;
+            Toast.makeText(getApplicationContext(),"Réactiver la localisation et relancer l'application",Toast.LENGTH_LONG);
         }
         else {
             latitude = location.getLatitude();
@@ -270,11 +278,12 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
                 // Adding all the points in the route to LineOptions
                 lineOptions.addAll(points);
-                lineOptions.width(2);
+                lineOptions.width(9);
                 lineOptions.color(Color.RED);
 
             }
-
+            dataTv.setText(traffic_data);
+            traffic_data.setLength(0);
             // Drawing polyline in the Google Map for the i-th route
             mMap.addPolyline(lineOptions);
         }
