@@ -1,8 +1,25 @@
 package com.semantic.ecare_android_v2.ui.common.activity;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
+import android.annotation.SuppressLint;
+import android.app.ActionBar;
+import android.app.Activity;
+import android.content.ComponentName;
+import android.content.Context;
+import android.content.Intent;
+import android.content.ServiceConnection;
+import android.media.AudioManager;
+import android.os.Bundle;
+import android.os.IBinder;
+import android.view.Gravity;
+import android.view.KeyEvent;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.View.OnTouchListener;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.LinearLayout.LayoutParams;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
 
 import com.semantic.ecare_android_v2.R;
 import com.semantic.ecare_android_v2.core.ServiceEcare;
@@ -13,43 +30,19 @@ import com.semantic.ecare_android_v2.object.Measure;
 import com.semantic.ecare_android_v2.object.NoteModel;
 import com.semantic.ecare_android_v2.object.Patient;
 import com.semantic.ecare_android_v2.object.SensorState;
-import com.semantic.ecare_android_v2.object.Tools;
-import com.semantic.ecare_android_v2.object.UartServiceJumper;
 import com.semantic.ecare_android_v2.util.Constants;
 import com.semantic.ecare_android_v2.util.Functions;
-import android.annotation.SuppressLint;
-import android.app.ActionBar;
-import android.app.Activity;
-import android.bluetooth.BluetoothAdapter;
-import android.bluetooth.BluetoothDevice;
-import android.content.BroadcastReceiver;
-import android.content.ComponentName;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.content.ServiceConnection;
-import android.media.AudioManager;
-import android.os.Bundle;
-import android.os.IBinder;
-import android.support.v4.content.LocalBroadcastManager;
-import android.view.Gravity;
-import android.view.KeyEvent;
-import android.view.MotionEvent;
-import android.view.View;
-import android.view.View.OnTouchListener;
-import android.widget.CheckBox;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
-import android.widget.LinearLayout.LayoutParams;
-import android.widget.TextView;
-import android.widget.Toast;
+
 import net.newel.android.Log;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
 
 @SuppressLint("NewApi")
 public abstract class GenericActivity extends Activity implements ServiceEcareListener {
 	protected boolean mIsBound;
-	protected ServiceEcare mBoundService;
+	public static ServiceEcare mBoundService;
 	private String CLASSNAME=this.getClass().getName();
 	
 	private HashMap<String,LinearLayout> listOfSensorStateLL;

@@ -34,7 +34,7 @@ public class NoteDialogActivity extends Activity {
 	private static final int VOICE_RECOGNITION_REQUEST_CODE_RECORD = 1234;
 	private static final int VOICE_RECOGNITION_REQUEST_CODE_COMPLETE = 4321;
 	public static LatLng ARRAY_LAT_LNG_PATIENT;
-	private NoteModel note;
+	public static NoteModel note;
 	private Button takeNoteButton;
 	private Button keyboardEditButton;
 	private Button cancelDialogButton;
