@@ -103,7 +103,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             //lat & long de paris :p, juste pour tester
             latitude = 48.8566140;
             longitude = 2.3522220;
-            Toast.makeText(getApplicationContext(),"Réactiver la localisation et relancer l'application",Toast.LENGTH_LONG);
+            Toast.makeText(getApplicationContext(),"Réactiver la localisation et relancer l'application",Toast.LENGTH_LONG).show();
         }
         else {
             latitude = location.getLatitude();
