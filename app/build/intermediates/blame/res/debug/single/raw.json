@@ -1,34 +1,18 @@
 [
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bip_custom.wav",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\raw\\bip_custom.wav"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/raw/bip.mp3",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/raw/bip.mp3"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/raw/testcell.cer",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/raw/testcell.cer"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/raw/bip_custom.wav",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/raw/bip_custom.wav"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/raw/bip.mp3",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/raw/bip.mp3"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/raw/bip_bip.mp3",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/raw/bip_bip.mp3"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bip.mp3",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\raw\\bip.mp3"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/raw/bip_custom.wav",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/raw/bip_custom.wav"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bip_bip.mp3",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\raw\\bip_bip.mp3"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\raw\\testcell.cer",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\raw\\testcell.cer"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/raw/bip_bip.mp3",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/raw/bip_bip.mp3"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/raw/testcell.cer",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/raw/testcell.cer"
     }
 ]

@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/aidl/com/signove/health/service/HealthAgentAPI.aidl
+ * Original file: /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/aidl/com/signove/health/service/HealthAgentAPI.aidl
  */
 package com.signove.health.service;
 public interface HealthAgentAPI extends android.os.IInterface

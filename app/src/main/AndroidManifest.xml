@@ -29,120 +29,174 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/Theme.ecare">
+        android:theme="@style/AppTheme"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+
+        >
+
+
+
+        <!--
+        New App Version !
+    -->
+
         <activity
-            android:name=".ui.SplashScreen"
-            android:label="@string/title_activity_splash_screen"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape">
+            android:name="com.semantic.ecare_android_v2.ui.MainActivity2"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>-->
+
+        <activity
+            android:name="com.semantic.ecare_android_v2.ui.Splash"
+            android:theme="@style/Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ui.MainActivity"
-            android:label="@string/title_activity_main"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.WaitActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.WaitActivityPatient"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.ErrorActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.AlertActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.MeasureActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.ChartActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.MeasureSetPatientActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.AboutActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.DebugActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.ExceptActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.DeviceUnactivedActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.DeviceUnaffectedActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.DeviceUnsupportedActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.ServerExceptActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
-        <activity
-            android:name=".ui.NoteDialogActivity"
-            android:launchMode="singleTop"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Dialog" />
-        <activity
-            android:name=".ui.DeviceDataActivity"
-            android:launchMode="singleTop"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Dialog" />
-        <activity
-            android:name=".ui.AllNotesActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="landscape" />
 
-        <service
-            android:name="com.signove.health.service.HealthService"
-            android:enabled="true"
-            android:exported="true"
-            android:permission="android.permission.BLUETOOTH"
-            android:stopWithTask="false">
-            <intent-filter>
-                <action android:name="com.signove.health.service.HealthService" />
-            </intent-filter>
-        </service>
-        <service android:name="com.signove.health.service.BluetoothHDPService" />
-        <service android:name=".core.ServiceEcare" />
-        <service android:name=".core.ServiceAntidoteClient" />
-        <service
-            android:name=".object.UartServiceJumper"
-            android:enabled="true"
-            android:permission="android.permission.BLUETOOTH" />
+        <activity android:name="com.semantic.ecare_android_v2.ui.LoginActivity"
+               android:theme="@style/Splash"></activity>
 
-        <!--
-             The API key for Google Maps-based APIs is defined as a string resource.
-             (See the file "res/values/google_maps_api.xml").
-             Note that the API key is linked to the encryption key used to sign the APK.
-             You need a different API key for each encryption key, including the release key that is used to
-             sign the APK for publishing.
-             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
-        -->
+
+
+   <!--
+
+   -->
+
+
+
+
+
+
+
+
+
+
+
+
+      <activity
+            android:name=".ui.SplashScreen"
+            android:label="@string/title_activity_splash_screen"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        <!--   <intent-filter>
+              <action android:name="android.intent.action.MAIN" />
+
+              <category android:name="android.intent.category.LAUNCHER" />
+          </intent-filter>
+ -->
+      </activity>
+  -
+
+
+
+      <activity
+          android:name=".ui.MainActivity"
+          android:label="@string/title_activity_main"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.WaitActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.WaitActivityPatient"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.ErrorActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.AlertActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.MeasureActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.ChartActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.MeasureSetPatientActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.AboutActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.DebugActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.ExceptActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.DeviceUnactivedActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.DeviceUnaffectedActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.DeviceUnsupportedActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.ServerExceptActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+      <activity
+          android:name=".ui.NoteDialogActivity"
+          android:launchMode="singleTop"
+          android:screenOrientation="portrait"
+          android:theme="@android:style/Theme.Dialog" />
+      <activity
+          android:name=".ui.DeviceDataActivity"
+          android:launchMode="singleTop"
+          android:screenOrientation="portrait"
+          android:theme="@android:style/Theme.Dialog" />
+      <activity
+          android:name=".ui.AllNotesActivity"
+          android:launchMode="singleTask"
+          android:screenOrientation="portrait" />
+
+      <service
+          android:name="com.signove.health.service.HealthService"
+          android:enabled="true"
+          android:exported="true"
+          android:permission="android.permission.BLUETOOTH"
+          android:stopWithTask="false">
+          <intent-filter>
+              <action android:name="com.signove.health.service.HealthService" />
+          </intent-filter>
+      </service>
+      <service android:name="com.signove.health.service.BluetoothHDPService" />
+      <service android:name=".core.ServiceEcare" />
+      <service android:name=".core.ServiceAntidoteClient" />
+      <service
+          android:name=".object.UartServiceJumper"
+          android:enabled="true"
+          android:permission="android.permission.BLUETOOTH" />
+
+      <!--
+           The API key for Google Maps-based APIs is defined as a string resource.
+           (See the file "res/values/google_maps_api.xml").
+           Note that the API key is linked to the encryption key used to sign the APK.
+           You need a different API key for each encryption key, including the release key that is used to
+           sign the APK for publishing.
+           You can define the keys for the debug and release targets in src/debug/ and src/release/.
+      -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />

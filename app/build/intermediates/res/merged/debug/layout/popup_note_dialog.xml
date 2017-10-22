@@ -53,6 +53,17 @@
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:textColor="@color/black" />
 
+    <TextView
+        android:id="@+id/addressTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Address Patient"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/black" />
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
@@ -84,6 +95,15 @@
             android:textSize="10sp"
             android:text="Editer au clavier"
             android:visibility = "invisible" />
+
+        <Button
+            android:id="@+id/openmaps"
+            android:maxWidth="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="10sp"
+            android:text="Adresse" />
+
 
         <Button
             android:id="@+id/completeNoteButton"

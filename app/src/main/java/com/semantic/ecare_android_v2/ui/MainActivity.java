@@ -24,6 +24,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -48,12 +49,25 @@ public class MainActivity extends GenericDisconnectedActivity {
 	public void setFirstTime(boolean firstTime) {
 		this.firstTime = firstTime;
 	}
-
+	private Button clickMe;
 	@Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
         Log.i(Constants.TAG, CLASSNAME+" Oncreate Class rv");
+
+		clickMe = (Button) findViewById(R.id.cm);
+
+		clickMe.setOnClickListener(new View.OnClickListener() {
+									   @Override
+									   public void onClick(View view) {
+
+										   Intent intent = new Intent(MainActivity.this, MainActivity2.class);
+										   MainActivity.this.startActivity(intent);
+
+									   }
+
+		});
         
         //Button button=(Button) findViewById(R.id.button1);   
     }
@@ -91,7 +105,7 @@ public class MainActivity extends GenericDisconnectedActivity {
     	//et qu'on met une autre appli à la place, 
     	//et qu'on réaffiche l'appli en utilisant l'icone de notification
     	// => ALORS BUG ICI "config" est NUL !!!
-    	if(mBoundService.getLaunchComplete()){
+    	if(mBoundService.getLaunchComplete()!=false){
 	    	TextView tvInfo = (TextView) findViewById(R.id.infos);
 	    	if(mBoundService!=null){
 		    	ConfigurationList config = mBoundService.getConfigurationList();

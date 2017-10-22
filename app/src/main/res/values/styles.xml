@@ -18,6 +18,35 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
+
+
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+    <style name="Splash" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+
+
+
+
+
+
+
     <style name="Theme.ecare" parent="@android:style/Theme.Holo.Light">
         <item name="android:actionBarItemBackground">@drawable/selectable_background_ecare</item>
         <item name="android:popupMenuStyle">@style/ecare_PopupMenu</item>
@@ -44,9 +73,6 @@
         
     </style>
 
-    
-    
-    
     <style name="ecare_solid_ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
         <item name="android:background">@drawable/ab_solid_ecare9</item>
         <item name="android:backgroundStacked">@drawable/ab_stacked_solid_ecare9</item>

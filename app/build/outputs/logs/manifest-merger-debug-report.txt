@@ -1,275 +1,397 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:2:1-150:12
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:2:1-210:12
 	package
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:3:5-44
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:23.4.0] /Users/zakaria_afir/.android/build-cache/fa21b6d99e85b882bc7cecc3319a4c8e8962ea9d/output/AndroidManifest.xml:20:5-43
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/aimen/.android/build-cache/98b31d046bf0d0d4217c5c1637f809857e6e72ed/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/aimen/.android/build-cache/59bf58593203673e42555e8ac2e122ca8d6581ab/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/aimen/.android/build-cache/1e287b5303e52f4f7f9e2959862f561ca0a26b13/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/aimen/.android/build-cache/b63162dd5d3f0d3a685a2406d1c0f9f26ce909ed/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aimen/.android/build-cache/a0d8591eb74474b456c0fb9692dc30b5882f5cf1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/aimen/.android/build-cache/4b474e2335a956682e154695e6ce70771ef3cec2/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/aimen/.android/build-cache/201527784fee9a16a0e33f8356255131b7c51f18/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/aimen/.android/build-cache/587e07899db40c50d6dc98335912eac459e96806/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/aimen/.android/build-cache/ae6480c44362a873ef9d7a6bd4b7877837d0a473/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/aimen/.android/build-cache/85f6dd5ca49a9377b391d689fb2f8fa8bbfb0515/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/aimen/.android/build-cache/9cf8ff0c87b1cd48111a1a55e47ef6537c3e5f54/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/aimen/.android/build-cache/45832c539d4aa3e36ee42739da81ad7c78e49ccd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/aimen/.android/build-cache/7a637788c8499c2d29d02517daa1a39d667eed09/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/aimen/.android/build-cache/d3bc0e53c9173e9e8005b3d8aa0d944ef3ef26a5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/aimen/.android/build-cache/173c206431e4621d9f6ca30430b943431051c014/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/aimen/.android/build-cache/107d8ac63269f841a18fe13c84fb2e2c7723ce62/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:10:5-74
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:11:5-74
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:10:22-71
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:11:22-71
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:11:5-68
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:12:5-68
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:11:22-65
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:12:5-79
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/aimen/.android/build-cache/4b474e2335a956682e154695e6ce70771ef3cec2/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:12:22-76
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:13:5-81
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:13:22-78
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:14:22-78
 uses-permission#android.permission.READ_LOGS
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:14:5-68
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:15:5-68
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:14:22-65
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:15:22-65
 uses-permission#android.permission.INTERNET
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:15:5-67
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/aimen/.android/build-cache/4b474e2335a956682e154695e6ce70771ef3cec2/output/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:15:22-64
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:16:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:16:5-76
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:16:22-73
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:25:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:26:22-77
 application
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:18:5-148:19
-MERGED from [com.android.support:support-v4:23.4.0] /Users/zakaria_afir/.android/build-cache/fa21b6d99e85b882bc7cecc3319a4c8e8962ea9d/output/AndroidManifest.xml:22:5-20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:28:5-208:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/aimen/.android/build-cache/98b31d046bf0d0d4217c5c1637f809857e6e72ed/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/aimen/.android/build-cache/59bf58593203673e42555e8ac2e122ca8d6581ab/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/aimen/.android/build-cache/b63162dd5d3f0d3a685a2406d1c0f9f26ce909ed/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aimen/.android/build-cache/a0d8591eb74474b456c0fb9692dc30b5882f5cf1/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/aimen/.android/build-cache/4b474e2335a956682e154695e6ce70771ef3cec2/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/aimen/.android/build-cache/201527784fee9a16a0e33f8356255131b7c51f18/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/aimen/.android/build-cache/587e07899db40c50d6dc98335912eac459e96806/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/aimen/.android/build-cache/ae6480c44362a873ef9d7a6bd4b7877837d0a473/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/aimen/.android/build-cache/85f6dd5ca49a9377b391d689fb2f8fa8bbfb0515/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/aimen/.android/build-cache/9cf8ff0c87b1cd48111a1a55e47ef6537c3e5f54/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/aimen/.android/build-cache/45832c539d4aa3e36ee42739da81ad7c78e49ccd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/aimen/.android/build-cache/7a637788c8499c2d29d02517daa1a39d667eed09/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/aimen/.android/build-cache/d3bc0e53c9173e9e8005b3d8aa0d944ef3ef26a5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/aimen/.android/build-cache/173c206431e4621d9f6ca30430b943431051c014/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/aimen/.android/build-cache/107d8ac63269f841a18fe13c84fb2e2c7723ce62/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:31:9-41
+	android:supportsRtl
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:34:9-35
+	android:roundIcon
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:33:9-54
 	android:allowBackup
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:29:9-35
 	android:icon
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:20:9-45
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:30:9-45
 	android:theme
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:22:9-43
-activity#com.semantic.ecare_android_v2.ui.SplashScreen
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:23:9-33:20
-	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:27:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:32:9-40
+activity#com.semantic.ecare_android_v2.ui.MainActivity2
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:44:9-50:20
 	android:label
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:25:13-65
-	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:26:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:46:13-45
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:24:13-73
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:28:13-32:29
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:45:13-74
+intent-filter#android.intent.action.MAIN
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:47:13-49:29
 action#android.intent.action.MAIN
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:48:17-69
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:48:25-66
+activity#com.semantic.ecare_android_v2.ui.Splash
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:52:9-60:20
+	android:theme
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:54:13-42
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:53:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:55:13-59:29
 category#android.intent.category.LAUNCHER
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:58:17-77
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:31:27-74
-activity#com.semantic.ecare_android_v2.ui.MainActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:34:9-39:20
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:58:27-74
+activity#com.semantic.ecare_android_v2.ui.LoginActivity
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:62:9-63:57
+	android:theme
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:63:16-45
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:62:19-80
+activity#com.semantic.ecare_android_v2.ui.SplashScreen
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:82:7-93:18
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:38:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:86:13-49
 	android:label
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:36:13-56
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:84:13-65
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:37:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:85:13-44
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:35:13-73
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:83:13-44
+activity#com.semantic.ecare_android_v2.ui.MainActivity
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:98:7-102:50
+	android:screenOrientation
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:102:11-47
+	android:label
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:100:11-54
+	android:launchMode
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:101:11-42
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:99:11-42
 activity#com.semantic.ecare_android_v2.ui.WaitActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:40:9-44:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:103:7-106:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:43:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:106:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:42:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:105:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:41:13-73
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:104:11-42
 activity#com.semantic.ecare_android_v2.ui.WaitActivityPatient
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:45:9-49:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:107:7-110:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:48:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:110:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:47:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:109:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:46:13-80
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:108:11-49
 activity#com.semantic.ecare_android_v2.ui.ErrorActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:50:9-54:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:111:7-114:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:53:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:114:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:52:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:113:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:51:13-74
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:112:11-43
 activity#com.semantic.ecare_android_v2.ui.AlertActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:55:9-59:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:115:7-118:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:58:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:118:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:57:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:117:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:56:13-74
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:116:11-43
 activity#com.semantic.ecare_android_v2.ui.MeasureActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:60:9-64:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:119:7-122:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:63:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:122:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:62:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:121:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:61:13-76
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:120:11-45
 activity#com.semantic.ecare_android_v2.ui.ChartActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:65:9-69:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:123:7-126:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:68:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:126:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:67:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:125:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:66:13-74
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:124:11-43
 activity#com.semantic.ecare_android_v2.ui.MeasureSetPatientActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:70:9-74:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:127:7-130:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:73:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:130:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:72:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:129:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:71:13-86
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:128:11-55
 activity#com.semantic.ecare_android_v2.ui.AboutActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:75:9-79:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:131:7-134:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:78:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:134:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:77:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:133:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:76:13-74
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:132:11-43
 activity#com.semantic.ecare_android_v2.ui.DebugActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:80:9-84:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:135:7-138:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:83:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:138:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:82:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:137:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:81:13-74
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:136:11-43
 activity#com.semantic.ecare_android_v2.ui.ExceptActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:85:9-89:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:139:7-142:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:88:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:142:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:87:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:141:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:86:13-75
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:140:11-44
 activity#com.semantic.ecare_android_v2.ui.DeviceUnactivedActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:90:9-94:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:143:7-146:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:93:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:146:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:92:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:145:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:91:13-84
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:144:11-53
 activity#com.semantic.ecare_android_v2.ui.DeviceUnaffectedActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:95:9-99:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:147:7-150:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:98:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:150:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:97:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:149:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:96:13-85
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:148:11-54
 activity#com.semantic.ecare_android_v2.ui.DeviceUnsupportedActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:100:9-104:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:151:7-154:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:103:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:154:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:102:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:153:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:101:13-86
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:152:11-55
 activity#com.semantic.ecare_android_v2.ui.ServerExceptActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:105:9-109:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:155:7-158:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:108:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:158:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:107:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:157:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:106:13-81
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:156:11-50
 activity#com.semantic.ecare_android_v2.ui.NoteDialogActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:110:9-115:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:159:7-163:57
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:113:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:162:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:112:13-43
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:161:11-41
 	android:theme
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:114:13-56
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:163:11-54
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:111:13-79
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:160:11-48
 activity#com.semantic.ecare_android_v2.ui.DeviceDataActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:116:9-121:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:164:7-168:57
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:119:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:167:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:118:13-43
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:166:11-41
 	android:theme
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:120:13-56
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:168:11-54
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:117:13-79
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:165:11-48
 activity#com.semantic.ecare_android_v2.ui.AllNotesActivity
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:122:9-126:20
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:169:7-172:50
 	android:screenOrientation
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:125:13-50
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:172:11-47
 	android:launchMode
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:124:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:171:11-42
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:123:13-77
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:170:11-46
 service#com.signove.health.service.HealthService
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:128:9-137:19
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:174:7-183:17
 	android:enabled
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:130:13-35
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:176:11-33
 	android:exported
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:131:13-36
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:177:11-34
 	android:permission
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:132:13-62
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:178:11-60
 	android:stopWithTask
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:133:13-41
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:179:11-39
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:129:13-68
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:175:11-66
 intent-filter#com.signove.health.service.HealthService
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:134:13-136:29
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:180:11-182:27
 action#com.signove.health.service.HealthService
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:135:17-83
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:181:15-81
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:135:25-80
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:181:23-78
 service#com.signove.health.service.BluetoothHDPService
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:138:9-82
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:184:7-80
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:138:18-79
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:184:16-77
 service#com.semantic.ecare_android_v2.core.ServiceEcare
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:139:9-140:19
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:185:7-52
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:139:18-80
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:185:16-49
 service#com.semantic.ecare_android_v2.core.ServiceAntidoteClient
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:141:9-142:19
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:186:7-61
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:141:18-89
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:186:16-58
 service#com.semantic.ecare_android_v2.object.UartServiceJumper
-ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:143:9-146:85
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:187:7-190:63
 	android:enabled
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:144:13-35
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:189:11-33
 	android:permission
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:145:13-62
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:190:11-60
 	android:name
-		ADDED from /Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/AndroidManifest.xml:146:13-82
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:188:11-51
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:200:9-202:55
+	android:value
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:202:13-52
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:201:13-58
+activity#com.semantic.ecare_android_v2.ui.MapsActivity
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:205:9-207:68
+	android:label
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:207:13-56
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:206:13-44
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/aimen/.android/build-cache/98b31d046bf0d0d4217c5c1637f809857e6e72ed/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/aimen/.android/build-cache/59bf58593203673e42555e8ac2e122ca8d6581ab/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/aimen/.android/build-cache/1e287b5303e52f4f7f9e2959862f561ca0a26b13/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/aimen/.android/build-cache/b63162dd5d3f0d3a685a2406d1c0f9f26ce909ed/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/aimen/.android/build-cache/9cf8ff0c87b1cd48111a1a55e47ef6537c3e5f54/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/aimen/.android/build-cache/45832c539d4aa3e36ee42739da81ad7c78e49ccd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/aimen/.android/build-cache/7a637788c8499c2d29d02517daa1a39d667eed09/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/aimen/.android/build-cache/d3bc0e53c9173e9e8005b3d8aa0d944ef3ef26a5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/aimen/.android/build-cache/173c206431e4621d9f6ca30430b943431051c014/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/aimen/.android/build-cache/107d8ac63269f841a18fe13c84fb2e2c7723ce62/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/aimen/.android/build-cache/4b474e2335a956682e154695e6ce70771ef3cec2/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/aimen/.android/build-cache/4b474e2335a956682e154695e6ce70771ef3cec2/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/aimen/.android/build-cache/4b474e2335a956682e154695e6ce70771ef3cec2/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/aimen/.android/build-cache/587e07899db40c50d6dc98335912eac459e96806/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/aimen/.android/build-cache/587e07899db40c50d6dc98335912eac459e96806/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/aimen/.android/build-cache/587e07899db40c50d6dc98335912eac459e96806/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/aimen/.android/build-cache/587e07899db40c50d6dc98335912eac459e96806/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/aimen/.android/build-cache/85f6dd5ca49a9377b391d689fb2f8fa8bbfb0515/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/aimen/.android/build-cache/85f6dd5ca49a9377b391d689fb2f8fa8bbfb0515/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/aimen/.android/build-cache/85f6dd5ca49a9377b391d689fb2f8fa8bbfb0515/output/AndroidManifest.xml:20:20-65

@@ -10,6 +10,7 @@ import android.content.ServiceConnection;
 import android.media.AudioManager;
 import android.os.Bundle;
 import android.os.IBinder;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
@@ -40,7 +41,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 @SuppressLint("NewApi")
-public abstract class GenericActivity extends Activity implements ServiceEcareListener {
+public abstract class GenericActivity extends AppCompatActivity implements ServiceEcareListener {
 	protected boolean mIsBound;
 	public static ServiceEcare mBoundService;
 	private String CLASSNAME=this.getClass().getName();
@@ -61,9 +62,9 @@ public abstract class GenericActivity extends Activity implements ServiceEcareLi
         //volume button controls media volume
         setVolumeControlStream(AudioManager.STREAM_MUSIC); 
 
-        ActionBar bar = getActionBar();
-        bar.setCustomView(R.layout.actionbar_view);
-        bar.setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
+
+		getSupportActionBar().setCustomView(R.layout.actionbar_view);
+		getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
         
 //       llSensorState = (LinearLayout) bar.getCustomView().findViewById(R.id.layout_sensor_state);
         

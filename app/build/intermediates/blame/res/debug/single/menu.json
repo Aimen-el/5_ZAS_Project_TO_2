@@ -1,98 +1,54 @@
 [
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_mesure_set_patient.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_mesure_set_patient.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_mesure_set_patient.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_mesure_set_patient.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_graphique.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_graphique.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_graphique.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_graphique.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_error.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_error.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_splash_screen.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_splash_screen.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_main.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_mesure.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_mesure.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\rafraichir_menu.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\rafraichir_menu.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_wait.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_wait.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_splash_screen.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_splash_screen.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_wait_patient.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_wait_patient.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_debug.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_debug.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_error.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_error.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_alert.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_about.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_about.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_error.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_error.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/rafraichir_menu.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/rafraichir_menu.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_splash_screen.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_splash_screen.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_main.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_wait.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_wait.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_alert.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_alert.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_wait.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_wait.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/activity_debug.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/activity_debug.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_about.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_about.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_mesure.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_main.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_mesure_set_patient.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_mesure_set_patient.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/activity_wait_patient.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/activity_wait_patient.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_wait_patient.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_wait_patient.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_graphique.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_graphique.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_alert.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/menu/rafraichir_menu.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/menu/rafraichir_menu.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_about.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_about.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_debug.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_debug.xml"
-    },
-    {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\menu\\activity_mesure.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/menu/navigation.xml"
     }
 ]

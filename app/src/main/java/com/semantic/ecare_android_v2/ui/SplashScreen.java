@@ -12,6 +12,7 @@ import android.content.Intent;
 import android.content.ServiceConnection;
 import android.os.Bundle;
 import android.os.IBinder;
+import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -28,7 +29,7 @@ import net.newel.android.Log;
 
 import java.util.ArrayList;
 
-public class SplashScreen extends Activity {
+public class SplashScreen extends AppCompatActivity {
 
 	private boolean mIsBound;
 	private ServiceEcare mBoundService;
@@ -52,9 +53,8 @@ public class SplashScreen extends Activity {
 
 		setContentView(R.layout.activity_splash_screen);
 
-		ActionBar bar = getActionBar();
-		bar.setCustomView(R.layout.actionbar_view);
-		bar.setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
+		getSupportActionBar().setCustomView(R.layout.actionbar_view);
+		getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
 
 		progressBar = (ProgressBar) findViewById(R.id.progressBar1);
 		textLoading = (TextView) findViewById(R.id.tvLoading);

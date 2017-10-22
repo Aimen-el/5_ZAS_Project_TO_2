@@ -1,274 +1,382 @@
 [
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_patient_item.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_chart.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_chart.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_mesure_set_patient.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_mesure_set_patient.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_serverexept.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_serverexept.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_action.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_row_inflate.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\note_row_inflate.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_error.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_error.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listitem_device.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_view.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\actionbar_view.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/spinner_select_sensor.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/spinner_select_sensor.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_splash_screen.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_debug.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/listview_last_measure_item.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/listview_last_measure_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_error.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_error.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/note_row_inflate.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/note_row_inflate.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/device_unaffected.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/device_unaffected.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serverexept.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_serverexept.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_alert.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/alert_row_no_alert.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/alert_row_no_alert.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_about.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_main_2.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_main_2.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_graph.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unactived.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unactived.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_inflate.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_inflate.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/listview_measure_set_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/listview_measure_set_patient_item.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/popup_note_dialog.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/popup_note_dialog.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/alert_row_inflate.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/alert_row_inflate.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/alert_row_no_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/alert_row_no_alert.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/spinner_select_graph.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/spinner_select_graph.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_about.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_mesure.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/spinner_select_graph2.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/spinner_select_graph2.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/include_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/include_mesure.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\include_mesure.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/popup_device_data.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/popup_device_data.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_mesure.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_mesure.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unsuportted.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unsuportted.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_time_span.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_time_span.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/header_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/header_ecare.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/fragment_patients.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/fragment_patients.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_graph2.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_graph2.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/device_unactived.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/device_unactived.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_patient_item.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_row_no_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\alert_row_no_alert.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/note_row_inflate.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/note_row_inflate.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_unaffected.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\device_unaffected.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_wait.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_wait.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_wait.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_wait.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_chart.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_chart.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_note_dialog.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\popup_note_dialog.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/listitem_device.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_alert.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_alert.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/header_ecare.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/header_ecare.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/actionbar_view.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/actionbar_view.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_maps.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_device_data.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\popup_device_data.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_notes.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_all_notes.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_select_sensor_black.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_select_sensor_black.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/listview_measure_set_patient_item.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/listview_measure_set_patient_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_debug.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_debug.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/excpted_internet.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/excpted_internet.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/listitem_device.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_patient_item.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/actionbar_view.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/actionbar_view.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_error.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_error.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_alert.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_alert.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/listview_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/listview_patient_item.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/listview_last_measure_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/listview_last_measure_item.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_splash_screen.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_select_graph2.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_select_graph2.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/excpted_internet.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/excpted_internet.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chart.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_chart.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_select_graph.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_select_graph.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/popup_device_data.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/popup_device_data.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_last_measure_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_last_measure_item.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_debug.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_debug.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/spinner_select_sensor.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/spinner_select_sensor.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_mesure.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_mesure.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/device_unaffected.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/device_unaffected.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_measure_set_patient_item.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\listview_measure_set_patient_item.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_ecare.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\header_ecare.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wait.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_wait.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_all_notes.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_all_notes.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/device_unsuportted.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/device_unsuportted.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\excpted_internet.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\excpted_internet.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/alert_row_time_span.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/alert_row_time_span.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mesure_set_patient.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\activity_mesure_set_patient.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor_black.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_sensor_black.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_serverexept.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_serverexept.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_select_sensor.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/C:\\Users\\GMI-PC\\Desktop\\TO52\\ecare_android_v21\\app\\src\\main\\res\\layout\\spinner_select_sensor.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/popup_note_dialog.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/popup_note_dialog.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/device_unactived.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/device_unactived.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/build/intermediates/res/merged/debug/layout/activity_all_notes.xml",
-        "source": "/Users/zakaria_afir/Desktop/TO52/ZAS_Project_TO_52/app/src/main/res/layout/activity_all_notes.xml"
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/fragment_dashboard.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/include_mesure.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/include_mesure.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/alert_row_inflate.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/alert_row_inflate.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/fragment_apropos.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/fragment_apropos.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/spinner_select_sensor_black.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/spinner_select_sensor_black.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/alert_row_time_span.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/alert_row_time_span.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_mesure_set_patient.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_mesure_set_patient.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/spinner_patient_item.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/spinner_patient_item.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/device_unsuportted.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/device_unsuportted.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/layout/listview_patient_item.xml",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/layout/listview_patient_item.xml"
     }
 ]

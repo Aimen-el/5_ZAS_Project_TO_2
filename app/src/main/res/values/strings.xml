@@ -2,6 +2,31 @@
 <resources>
 
     <string name="app_name">E-Care</string>
+
+
+    <!-- New Version strings -->
+
+
+    <string name="dashboard_placeholder">Dashboard</string>
+    <string name="patients_placeholder">Patients</string>
+    <string name="apropos_placeholder">A Propos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="identifiez_vous">Identifiez-vous</string>
+    <string name="name">Name</string>
+    <string name="applogo">appLogo</string>
+
+
+
+
+
+    <!-- New Version strings - End -->
+
+
+
     <string name="menu_reboot">Redémarrer</string>
     <string name="menu_exit">Quitter</string>
     <string name="menu_update">Raffraichir</string>
@@ -112,7 +137,7 @@
     <string name="bool_true">true</string>
     <string name="bool_false">false</string>
 
-    <color name="white">#FFFFFF</color>
+   <!-- <color name="white">#FFFFFF</color>-->
     <color name="black">#000000</color>
     <color name="gray_patientName">#333333</color>
     <color name="ecare_blue">#2080ba</color>
