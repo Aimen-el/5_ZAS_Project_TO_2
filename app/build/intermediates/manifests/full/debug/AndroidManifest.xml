@@ -145,7 +145,7 @@
         <activity
             android:name="com.semantic.ecare_android_v2.ui.NoteDialogActivity"
             android:launchMode="singleTop"
-            android:screenOrientation="portrait"
+            android:screenOrientation="landscape"
             android:theme="@android:style/Theme.Dialog" />
         <activity
             android:name="com.semantic.ecare_android_v2.ui.DeviceDataActivity"
@@ -155,7 +155,7 @@
         <activity
             android:name="com.semantic.ecare_android_v2.ui.AllNotesActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="landscape" />
 
         <service
             android:name="com.signove.health.service.HealthService"

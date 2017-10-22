@@ -283,7 +283,7 @@ ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifes
 activity#com.semantic.ecare_android_v2.ui.NoteDialogActivity
 ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:159:7-163:57
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:162:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:162:11-48
 	android:launchMode
 		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:161:11-41
 	android:theme
@@ -301,9 +301,9 @@ ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifes
 	android:name
 		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:165:11-48
 activity#com.semantic.ecare_android_v2.ui.AllNotesActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:169:7-172:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:169:7-172:51
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:172:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:172:11-48
 	android:launchMode
 		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:171:11-42
 	android:name
