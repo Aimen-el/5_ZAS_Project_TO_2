@@ -1,4 +1,4 @@
-#Sun Oct 22 18:32:38 CEST 2017
+#Mon Oct 23 15:02:41 CEST 2017
 base.0=/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29c1c5fa66053b31b1cf0a8ae2d7ad0d7225ba66
 renamed.1=classes.dex
 renamed.0=classes2.dex

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:2:1-210:12
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:2:1-219:12
 	package
 		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml
@@ -88,7 +88,7 @@ ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifes
 	android:name
 		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:26:22-77
 application
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:28:5-208:19
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:28:5-217:19
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/aimen/.android/build-cache/98b31d046bf0d0d4217c5c1637f809857e6e72ed/output/AndroidManifest.xml:26:5-20
@@ -149,215 +149,215 @@ ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifes
 	android:name
 		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:62:19-80
 activity#com.semantic.ecare_android_v2.ui.SplashScreen
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:82:7-93:18
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:94:7-105:18
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:86:13-49
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:98:13-49
 	android:label
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:84:13-65
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:96:13-65
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:85:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:97:13-44
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:83:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:95:13-44
 activity#com.semantic.ecare_android_v2.ui.MainActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:98:7-102:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:107:7-111:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:102:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:111:11-47
 	android:label
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:100:11-54
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:109:11-54
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:101:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:110:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:99:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:108:11-42
 activity#com.semantic.ecare_android_v2.ui.WaitActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:103:7-106:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:112:7-115:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:106:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:115:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:105:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:114:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:104:11-42
-activity#com.semantic.ecare_android_v2.ui.WaitActivityPatient
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:107:7-110:50
-	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:110:11-47
-	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:109:11-42
-	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:108:11-49
-activity#com.semantic.ecare_android_v2.ui.ErrorActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:111:7-114:50
-	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:114:11-47
-	android:launchMode
 		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:113:11-42
+activity#com.semantic.ecare_android_v2.ui.WaitActivityPatient
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:116:7-119:50
+	android:screenOrientation
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:119:11-47
+	android:launchMode
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:118:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:112:11-43
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:117:11-49
+activity#com.semantic.ecare_android_v2.ui.ErrorActivity
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:120:7-123:50
+	android:screenOrientation
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:123:11-47
+	android:launchMode
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:122:11-42
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:121:11-43
 activity#com.semantic.ecare_android_v2.ui.AlertActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:115:7-118:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:124:7-127:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:118:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:127:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:117:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:126:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:116:11-43
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:125:11-43
 activity#com.semantic.ecare_android_v2.ui.MeasureActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:119:7-122:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:128:7-131:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:122:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:131:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:121:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:130:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:120:11-45
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:129:11-45
 activity#com.semantic.ecare_android_v2.ui.ChartActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:123:7-126:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:132:7-135:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:126:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:135:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:125:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:134:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:124:11-43
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:133:11-43
 activity#com.semantic.ecare_android_v2.ui.MeasureSetPatientActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:127:7-130:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:136:7-139:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:130:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:139:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:129:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:138:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:128:11-55
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:137:11-55
 activity#com.semantic.ecare_android_v2.ui.AboutActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:131:7-134:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:140:7-143:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:134:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:143:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:133:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:142:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:132:11-43
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:141:11-43
 activity#com.semantic.ecare_android_v2.ui.DebugActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:135:7-138:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:144:7-147:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:138:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:147:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:137:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:146:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:136:11-43
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:145:11-43
 activity#com.semantic.ecare_android_v2.ui.ExceptActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:139:7-142:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:148:7-151:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:142:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:151:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:141:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:150:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:140:11-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:149:11-44
 activity#com.semantic.ecare_android_v2.ui.DeviceUnactivedActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:143:7-146:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:152:7-155:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:146:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:155:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:145:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:154:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:144:11-53
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:153:11-53
 activity#com.semantic.ecare_android_v2.ui.DeviceUnaffectedActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:147:7-150:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:156:7-159:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:150:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:159:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:149:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:158:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:148:11-54
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:157:11-54
 activity#com.semantic.ecare_android_v2.ui.DeviceUnsupportedActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:151:7-154:50
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:160:7-163:50
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:154:11-47
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:163:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:153:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:162:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:152:11-55
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:161:11-55
 activity#com.semantic.ecare_android_v2.ui.ServerExceptActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:155:7-158:50
-	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:158:11-47
-	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:157:11-42
-	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:156:11-50
-activity#com.semantic.ecare_android_v2.ui.NoteDialogActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:159:7-163:57
-	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:162:11-48
-	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:161:11-41
-	android:theme
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:163:11-54
-	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:160:11-48
-activity#com.semantic.ecare_android_v2.ui.DeviceDataActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:164:7-168:57
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:164:7-167:50
 	android:screenOrientation
 		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:167:11-47
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:166:11-41
-	android:theme
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:168:11-54
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:166:11-42
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:165:11-48
-activity#com.semantic.ecare_android_v2.ui.AllNotesActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:169:7-172:51
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:165:11-50
+activity#com.semantic.ecare_android_v2.ui.NoteDialogActivity
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:168:7-172:57
 	android:screenOrientation
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:172:11-48
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:171:11-48
 	android:launchMode
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:171:11-42
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:170:11-41
+	android:theme
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:172:11-54
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:170:11-46
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:169:11-48
+activity#com.semantic.ecare_android_v2.ui.DeviceDataActivity
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:173:7-177:57
+	android:screenOrientation
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:176:11-47
+	android:launchMode
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:175:11-41
+	android:theme
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:177:11-54
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:174:11-48
+activity#com.semantic.ecare_android_v2.ui.AllNotesActivity
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:178:7-181:51
+	android:screenOrientation
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:181:11-48
+	android:launchMode
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:180:11-42
+	android:name
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:179:11-46
 service#com.signove.health.service.HealthService
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:174:7-183:17
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:183:7-192:17
 	android:enabled
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:176:11-33
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:185:11-33
 	android:exported
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:177:11-34
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:186:11-34
 	android:permission
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:178:11-60
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:187:11-60
 	android:stopWithTask
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:179:11-39
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:188:11-39
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:175:11-66
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:184:11-66
 intent-filter#com.signove.health.service.HealthService
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:180:11-182:27
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:189:11-191:27
 action#com.signove.health.service.HealthService
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:181:15-81
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:190:15-81
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:181:23-78
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:190:23-78
 service#com.signove.health.service.BluetoothHDPService
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:184:7-80
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:193:7-80
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:184:16-77
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:193:16-77
 service#com.semantic.ecare_android_v2.core.ServiceEcare
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:185:7-52
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:194:7-52
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:185:16-49
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:194:16-49
 service#com.semantic.ecare_android_v2.core.ServiceAntidoteClient
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:186:7-61
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:195:7-61
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:186:16-58
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:195:16-58
 service#com.semantic.ecare_android_v2.object.UartServiceJumper
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:187:7-190:63
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:196:7-199:63
 	android:enabled
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:189:11-33
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:198:11-33
 	android:permission
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:190:11-60
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:199:11-60
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:188:11-51
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:197:11-51
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:200:9-202:55
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:209:9-211:55
 	android:value
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:202:13-52
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:211:13-52
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:201:13-58
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:210:13-58
 activity#com.semantic.ecare_android_v2.ui.MapsActivity
-ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:205:9-207:68
+ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:214:9-216:68
 	android:label
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:207:13-56
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:216:13-56
 	android:name
-		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:206:13-44
+		ADDED from /home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/AndroidManifest.xml:215:13-44
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.0.0-alpha1] /home/aimen/.android/build-cache/d45a47698c1601248a0f631d6237b867091a54cb/output/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/aimen/.android/build-cache/d7290a6f92b3832db6e7b851f14b2c93df7384f8/output/AndroidManifest.xml:25:5-27:41

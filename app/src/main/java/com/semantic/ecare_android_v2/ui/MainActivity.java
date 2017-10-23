@@ -3,6 +3,9 @@ package com.semantic.ecare_android_v2.ui;
 
 import java.util.ArrayList;
 
+import com.semantic.ecare_android_v2.Fragments.AproposFragment;
+import com.semantic.ecare_android_v2.Fragments.DashboardFragment;
+import com.semantic.ecare_android_v2.Fragments.PatientsFragment;
 import com.semantic.ecare_android_v2.R;
 import com.semantic.ecare_android_v2.core.BuilderPatientList;
 import com.semantic.ecare_android_v2.object.CompoundMeasure;
@@ -19,6 +22,8 @@ import android.app.Dialog;
 import android.app.AlertDialog.Builder;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.support.annotation.NonNull;
+import android.support.design.widget.BottomNavigationView;
 import android.text.Html;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -29,6 +34,10 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
 import net.newel.android.Log;
+
+import android.support.design.widget.BottomNavigationView;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 
 public class MainActivity extends GenericDisconnectedActivity {
 	private final int DIALOG_EXIT=1;
@@ -49,26 +58,53 @@ public class MainActivity extends GenericDisconnectedActivity {
 	public void setFirstTime(boolean firstTime) {
 		this.firstTime = firstTime;
 	}
-	private Button clickMe;
+
+
+	FragmentManager fragmentManager;
+	FragmentTransaction fragmentTransaction;
+
+
+	private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
+			= new BottomNavigationView.OnNavigationItemSelectedListener() {
+
+		@Override
+		public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+			switch (item.getItemId()) {
+				case R.id.nav_dashboard:
+					fragmentTransaction = getSupportFragmentManager().beginTransaction();
+					fragmentTransaction.replace(R.id.drawer_layout, new DashboardFragment(), "Dashboard");
+					fragmentTransaction.commit();
+					return true;
+				case R.id.nav_patients:
+					fragmentTransaction = getSupportFragmentManager().beginTransaction();
+					fragmentTransaction.replace(R.id.drawer_layout, new PatientsFragment(), "Patients");
+					fragmentTransaction.commit();
+					return true;
+				case R.id.rootElement:
+					Intent intentAbout = new Intent(MainActivity.this, AboutActivity.class);
+					startActivity(intentAbout);
+					finish();
+					return true;
+			}
+			return false;
+		}
+
+	};
 	@Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
         Log.i(Constants.TAG, CLASSNAME+" Oncreate Class rv");
 
-		clickMe = (Button) findViewById(R.id.cm);
-
-		clickMe.setOnClickListener(new View.OnClickListener() {
-									   @Override
-									   public void onClick(View view) {
-
-										   Intent intent = new Intent(MainActivity.this, MainActivity2.class);
-										   MainActivity.this.startActivity(intent);
-
-									   }
-
-		});
-        
+		BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
+		navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+		// initiation du fragment dashboard par defaut au demarrage de l'application
+		fragmentManager = getSupportFragmentManager();
+		fragmentTransaction = fragmentManager.beginTransaction();
+		DashboardFragment dash = new DashboardFragment();
+		fragmentTransaction.add(R.id.drawer_layout, dash, "Dashboard");
+		fragmentTransaction.commit();
+		// end
         //Button button=(Button) findViewById(R.id.button1);   
     }
 	
@@ -251,15 +287,15 @@ public class MainActivity extends GenericDisconnectedActivity {
 	}
 
 
-	@SuppressWarnings("deprecation")
 	@Override
 	protected void onKeyBack() {
-		Log.w(Constants.TAG, CLASSNAME+" Demande de redémarrage depuis la touche retour");
-		showDialog(DIALOG_EXIT);
+		Intent iw = null;
+		iw = new Intent(getApplicationContext(), MainActivity.class);
+		startActivity(iw);
+		finish();
 	}
 
 
-	
 	
 	@Override
 	protected Dialog onCreateDialog(final int id) {

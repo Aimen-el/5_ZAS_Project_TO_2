@@ -364,12 +364,12 @@
         "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/drawable-xhdpi/btn_radio_on_holo_light.png"
     },
     {
-        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_people_black_24dp.png",
-        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_people_black_24dp.png"
-    },
-    {
         "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/drawable-xhdpi/progressbar_indeterminate_holo1.png",
         "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/src/main/res/drawable-xhdpi/progressbar_indeterminate_holo1.png"
+    },
+    {
+        "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_people_black_24dp.png",
+        "source": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_people_black_24dp.png"
     },
     {
         "merged": "/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_radio_on_pressed_holo_light.png",

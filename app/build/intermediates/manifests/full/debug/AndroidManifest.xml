@@ -80,7 +80,6 @@
           </intent-filter>
             -->
         </activity>
-  -
         <activity
             android:name="com.semantic.ecare_android_v2.ui.MainActivity"
             android:label="@string/title_activity_main"

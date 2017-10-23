@@ -79,6 +79,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       <activity
             android:name=".ui.SplashScreen"
             android:label="@string/title_activity_splash_screen"
@@ -91,9 +103,6 @@
           </intent-filter>
  -->
       </activity>
-  -
-
-
 
       <activity
           android:name=".ui.MainActivity"
