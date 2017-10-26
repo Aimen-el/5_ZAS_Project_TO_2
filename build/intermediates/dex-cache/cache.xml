@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7fec89e8599d306f9a971afe8ac990eb11148c64">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29c1c5fa66053b31b1cf0a8ae2d7ad0d7225ba66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/libs/achartengine-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/2/achartengine-1.0.0_83911268efb5aa2f7de3c91ff917c0a01b157083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/libs/log4j-1.2.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="057b8740427ee6d7b0b60792751356cad17dc0d9">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/2/log4j-1.2.12_f5cd61a10b52c859e69450e5b96d77785d487200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/libs/slf4j-api-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-api-1.6.1_498a5b245637995c1f22438b55aee56135755d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5a81bbc4f69875106381c832c5c9f7acd7dd351a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/libs/hapi-base-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1148f4144535ebd55c595821b385cb99dfc6c8d6">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/2/hapi-base-2.0_d555d99239e5374e20f4621ba1fc2785e38de74b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/libs/hapi-structures-v26-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcc2115d22c1cb8dd56135f533a2b8678e8cbfbc">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/2/hapi-structures-v26-2.0_f67e1471410a7d2c1f5471c416af103c363a28f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/libs/hapi-examples-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4cfed6a6b57b1518ca57a9330d7a64cefc018740">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/2/hapi-examples-2.0_3100a45274882c293264d3e3b0a66517fd02ddc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/libs/slf4j-log4j12-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd245d6746cdd4e6203e976e21d597a46f115802">
+        <dex dex="/home/aimen/Desktop/as/5_ZAS_Project_TO_2/app/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-log4j12-1.6.1_7848c0dd932f65489a760a8c1af0a8b12b68d65f/classes.dex" />
+    </item>
+
+</items>

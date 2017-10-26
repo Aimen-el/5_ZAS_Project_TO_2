@@ -1,0 +1,134 @@
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10sp" >
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="50dp"
+		android:layout_marginBottom="0dp"
+		android:layout_weight="1"
+		android:weightSum="12"
+		android:orientation="horizontal">
+
+		<android.support.constraint.ConstraintLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_weight="0.18">
+
+			<TextView
+				android:id="@+id/tvNoteTargetType"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentLeft="true"
+				android:layout_weight="0.18"
+				android:gravity="center_vertical"
+				android:maxWidth="90dp"
+				android:minWidth="90dp"
+				android:text="Mesure"
+				android:textColor="@color/ecare_gray"
+				android:textSize="22sp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				android:layout_marginBottom="8dp"
+				app:layout_constraintTop_toTopOf="parent"
+				android:layout_marginTop="8dp"
+				app:layout_constraintVertical_bias="0.857"
+				app:layout_constraintRight_toLeftOf="@+id/tvNoteMessage"
+				android:layout_marginRight="8dp"
+				app:layout_constraintLeft_toRightOf="@+id/view6"
+				android:layout_marginLeft="8dp" />
+
+			<View
+				android:id="@+id/view4"
+				android:layout_width="1dp"
+				android:layout_height="40dp"
+				android:layout_gravity="center_vertical"
+				android:layout_marginLeft="5dp"
+				android:layout_marginRight="5dp"
+				android:layout_weight="0.18"
+				android:background="@android:color/darker_gray" />
+
+			<TextView
+				android:id="@+id/tvNoteMessage"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_alignParentLeft="true"
+				android:layout_weight="0.18"
+				android:gravity="center_vertical"
+				android:text="note message"
+				android:textColor="@color/ecare_gray"
+				android:textSize="22sp"
+				tools:layout_editor_absoluteX="152dp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				android:layout_marginBottom="8dp"
+				app:layout_constraintTop_toTopOf="parent"
+				android:layout_marginTop="8dp"
+				app:layout_constraintVertical_bias="0.571" />
+
+			<View
+				android:id="@+id/view5"
+				android:layout_width="1dp"
+				android:layout_height="40dp"
+				android:layout_gravity="center_vertical"
+				android:layout_marginLeft="5dp"
+				android:layout_marginRight="5dp"
+				android:background="@android:color/darker_gray" />
+
+			<TextView
+				android:id="@+id/tvNoteDate"
+				android:layout_width="146dp"
+				android:layout_height="27dp"
+				android:layout_alignParentRight="true"
+				android:layout_weight="2"
+				android:gravity="center_vertical|right"
+				android:text="note date"
+				android:textAlignment="textStart"
+				android:textColor="@color/ecare_gray"
+				android:textSize="22sp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				android:layout_marginBottom="8dp"
+				app:layout_constraintTop_toTopOf="parent"
+				android:layout_marginTop="8dp"
+				app:layout_constraintRight_toLeftOf="@+id/viewNoteButton"
+				android:layout_marginRight="8dp"
+				app:layout_constraintVertical_bias="0.571"
+				app:layout_constraintLeft_toRightOf="@+id/tvNoteMessage"
+				android:layout_marginLeft="8dp" />
+
+			<View
+				android:id="@+id/view6"
+				android:layout_width="1dp"
+				android:layout_height="40dp"
+				android:layout_gravity="center_vertical"
+				android:layout_marginLeft="5dp"
+				android:layout_marginRight="5dp"
+				android:background="@android:color/darker_gray" />
+
+			<Button
+				android:id="@+id/viewNoteButton"
+				android:layout_width="0dp"
+				android:layout_height="fill_parent"
+				android:layout_toRightOf="@+id/tvNoteDate"
+				android:layout_weight="3"
+				android:text="Voir note"
+				tools:layout_editor_absoluteY="1dp"
+				tools:layout_editor_absoluteX="517dp" />
+
+			<Button
+				android:id="@+id/deleteNoteButton"
+				android:layout_width="0dp"
+				android:layout_height="fill_parent"
+				android:layout_weight="3.13"
+				android:text="Supprimer note"
+				tools:layout_editor_absoluteY="1dp"
+				android:layout_marginRight="8dp"
+				app:layout_constraintRight_toRightOf="parent"
+				app:layout_constraintLeft_toRightOf="@+id/viewNoteButton"
+				android:layout_marginLeft="8dp" />
+
+		</android.support.constraint.ConstraintLayout>
+
+	</LinearLayout>
+</TableRow>
